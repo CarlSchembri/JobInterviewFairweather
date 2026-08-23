@@ -228,20 +228,31 @@ no real Python is on the PATH ahead of it.
 
 ### Or just double-click it
 
+**`FairweatherTransit.exe` is already in this repository.** Download or clone,
+double-click it, and the game starts its own server and opens your browser. No
+Python install, no terminal, no `pip`.
+
+> **Windows will warn you about it.** Executables downloaded from the internet
+> get flagged by SmartScreen: *"Windows protected your PC."* Click **More info →
+> Run anyway**. The file is a PyInstaller bundle of the Python source sitting
+> next to it in this repo — you can read every line of what it runs, or skip it
+> entirely and use `python game.py`, which needs no build at all.
+
+To rebuild it yourself:
+
 ```bash
 python -m pip install pyinstaller && python build_exe.py
 ```
 
-That produces `dist/FairweatherTransit.exe` (~8 MB) — one file, no Python
-install needed, no terminal command. It starts the server and opens the browser
-itself. PyInstaller is a **build-time tool only**; the executable it produces
-still has zero runtime dependencies, and `python game.py` keeps working exactly
-as before.
+That writes `FairweatherTransit.exe` beside the source. PyInstaller is a
+**build-time tool only** — the executable it produces still has zero runtime
+dependencies, and `python game.py` keeps working exactly as before.
 
-The console window it opens is deliberate — the per-turn ledger diff is grading
-evidence and has to stay visible. `ledger.json`, `transcript.txt` and `logs/`
-are written next to the executable, not inside the temporary unpack directory,
-so the evidence lands somewhere you can find it.
+The console window that opens alongside the game is deliberate: the per-turn
+ledger diff prints there and it is grading evidence, so it has to stay visible.
+Closing it closes the game. `ledger.json`, `transcript.txt` and `logs/` are
+written next to the executable rather than into the temporary unpack directory
+PyInstaller wipes on exit, so the evidence lands somewhere you can find it.
 
 **In-game keys:** arrows / `1`–`4` / `Enter` to choose, click or `Space` to skip
 the typewriter, `F1` to toggle the live ledger overlay, `PgDn` to scroll it. The
