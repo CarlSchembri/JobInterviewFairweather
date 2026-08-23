@@ -1,0 +1,147 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T09:00:22   applicant: DINGLEBERRY   backend: none
+==========================================================================
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  DINGLEBERRY: FART
+  MANAGER (bank): … …Right. The ventilation in this office was condemned in 2004 and the council has not reached quorum since, so nothing has been done about it. Let's begin, Dingleberra. Form 12-B, line one.
+  note: response bank
+
+[turn 2] Tell me about yourself.
+  DINGLEBERRY: I like to play with slime
+  MANAGER (bank): I've written it down. I have written down exactly and only what you said, Dingleberrye, which is the whole of my professional obligation under Form 12-B. The window does not open. It never has. I want it on the record that the previous driver's medical file is open on this desk, and has been for some time.
+  note: response bank
+
+[turn 3] Where do you see yourself in five years.
+  DINGLEBERRY: ALIVE.
+  MANAGER (bank): Five years. …The previous driver said something similar, and his medical file is still on this desk, open, where he left it. Line six. Noted. The window does not open. It never has.
+  note: response bank
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  DINGLEBERRY: AIM FOR THE SOFTEST PART OF THE WEDDING.
+  MANAGER (bank): Understood. …Switchback Ridge has had guardrails pending Bridge Fund approval since before I was assigned to this department. Your answer changes nothing about that and I have annexed it anyway. The ventilation was condemned in 2004.
+  note: response bank
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  DINGLEBERRY: YOU'LL GET THERE EVENTUALLY.
+  MANAGER (bank): Line eleven. Complete. …The motto was adopted by a vote in which most ballots were never delivered, which tells you everything about how this town handles a thing it cannot take back. Noted. The coffee has not helped.
+  note: response bank
+
+[turn 6] What do you know about Gary.
+  DINGLEBERRY: I heard he once ate a whole building
+  MANAGER (bank): Mm. …Gary is not banned from riding. Gary is banned from being acknowledged, which is a distinction the Authority spent a full council session on in a year when quorum still happened. Line fourteen. Noted. I want it on the record that the previous driver's medical file is open on this desk, and has been for some time.
+  note: response bank
+
+[turn 7] Do you have any questions for me.
+  DINGLEBERRY: WHAT DOES IT PAY?
+  MANAGER (bank): …That's the one everyone asks, and it's the one Form 40 exists to not answer. I'd open a window for the discussion but I've explained the window. Noted. Filed. Gone. The window does not open. It never has.
+  note: response bank
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         -3   BAD
+  PROCEDURAL COMPLIANCE    +2   GOOD
+  PHYSICAL CONDUCT         +5   PERFECT
+  DELUSION (deducted)      -2
+  FINAL GRADE: B
+  STAMPED: PERSONAL BEST
+  Personal best. The Authority is legally obligated to acknowledge this.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T09:00:22",
+  "player_name": "DINGLEBERRY",
+  "turn": 7,
+  "pose": "fart",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": true,
+    "fart_count": 1,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Something occurred. Neither party will refer to it again.",
+    "Player described themselves as: “I like to play with slime”",
+    "Player's five-year plan is to be alive.",
+    "Player would aim for the softest part of the wedding party.",
+    "Player correctly recited the town motto.",
+    "Player has never heard of Gary.",
+    "Player asked what the position pays."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": -2,
+    "hazard_awareness": -3,
+    "bureaucratic_compliance": 2,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "fart",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I like to play with slime",
+      "source": "bank"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "alive",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "aim_soft",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_correct",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "I heard he once ate a whole building",
+      "source": "bank"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "the_pay",
+      "text": null,
+      "source": "bank"
+    }
+  ],
+  "callbacks_used": [],
+  "running_grade": "B"
+}

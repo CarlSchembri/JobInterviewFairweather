@@ -1,0 +1,92 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T11:49:35   applicant: BUSTER   backend: none
+==========================================================================
+
+[name] BUSTER
+  MANAGER (bank): …Mr. Buste. Good. Strong name. …The previous driver had a name like that. Form 12-B, line one.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  BUSTER: FART
+  MANAGER (bank): … …Right. The ventilation in this office was condemned in 2004 and the council has not reached quorum since, so nothing has been done about it. Let's begin, Buuster. Form 12-B, line one.
+  note: response bank
+
+[turn 2] Tell me about yourself.
+  BUSTER: I love this town and I love a bus
+  MANAGER (bank): I've written it down. I have written down exactly and only what you said, Mr. Buste, which is the whole of my professional obligation under Form 12-B. The window does not open. It never has. I want it on the record that the previous driver's medical file is open on this desk, and has been for some time. Enthusiasm. …I'll note it. It doesn't survive the first shift, but I'll note it.
+  note: response bank
+
+[turn 3] Where do you see yourself in five years.
+  BUSTER: I DON'T PLAN AHEAD. THE BRIDGES TAUGHT ME.
+  MANAGER (bank): Five years. …The previous driver said something similar, and his medical file is still on this desk, open, where he left it. Line six. Noted. The window does not open. It never has. The Bridge Fund has been almost fully funded for eleven consecutive years. Please do not ask to see the bridge.
+  note: response bank
+
+[EXIT] player left after turn 3
+  MANAGER (bank): Nine minutes. …Or 3 questions, which is how Form 12-B measures it, and Form 12-B is what I have. You may go. The ventilation was condemned in 2004 and I would not want you to feel responsible for a municipal failure. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T11:49:35",
+  "player_name": "BUSTER",
+  "turn": 3,
+  "pose": "fart",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": true,
+    "fart_count": 1,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name BUSTER.",
+    "Something occurred. Neither party will refer to it again.",
+    "Player described themselves as: “I love this town and I love a bus”",
+    "Player cites the bridges as a reason not to plan ahead.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": true,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": true,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 1,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 0,
+    "physical_comedy": 3
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "fart",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I love this town and I love a bus",
+      "source": "bank"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "no_planning",
+      "text": null,
+      "source": "bank"
+    }
+  ],
+  "callbacks_used": [],
+  "running_grade": "B-"
+}

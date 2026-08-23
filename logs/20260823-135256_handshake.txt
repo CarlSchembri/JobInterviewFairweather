@@ -1,0 +1,183 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T13:51:59   applicant: CARL   backend: cli
+==========================================================================
+
+[name] CARL
+  MANAGER (bank): Carle, then. I'll write it here, and then I'll write it differently further down, and the Authority will decide between them in its own time.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  CARL: SHAKE HAND
+  MANAGER (cli): There it is. Firm. Municipal. He does not let go, and neither, it appears, do you. Carla — the sheet says Carla, though the coffee stain suggests otherwise — Form 12-B does not have a box for handshake duration, so we will simply...
+  note: compliant physical opening, no red flags yet
+
+[turn 2] Tell me about yourself.
+  CARL: I have 11 years experience driving buses
+  MANAGER (cli): Eleven years. Noted. Filed, provisionally, pending Form 12-B(iii). Eleven years is, incidentally, longer than this handshake, though at the current rate of progress the two figures may yet converge. Do go on, Carla — the hand can stay where it is.
+  note: unverified experience claim, handshake still unresolved
+
+[turn 3] Where do you see yourself in five years.
+  CARL: Alive. Behind this exact wheel.
+  MANAGER (cli): "Alive. Behind this exact wheel. " Noted, verbatim, underlined once. The board behind me reads zero days since incident, Carl — Karl, the sheet now insists, someone has crossed out Carla — and it will read zero again tomorrow regardless of what you decide here. Ambitious, in its way.
+  note: candid but grim ambition, low bar cleared
+
+[turn 4] Hypothetical. The fare box is on fire. You are eleven stops from the depot and the route is, per the schedule, uninterrupted.
+  CARL: CONTINUE THE ROUTE. IT'S CONTAINED.
+  MANAGER (cli): "It's contained." Noted, though I am writing that down one-handed, Karl, on account of the hand situation, so forgive the penmanship. You did tell me you'd be alive, behind this exact wheel, in five years — Form 12-B does not ask about the fare box, but I am inclined to believe you'd manage both fires at once. Bureaucratic compliance: exemplary. Hazard awareness: filed under a different drawer entirely.
+  note: schedule adherence over safety, a pattern now
+
+[turn 5] Hypothetical. There is a cow on Fairweather Ave. It is standing in the lane. It has the bearing of something that has done this before.
+  CARL: HORN.
+  MANAGER (cli): The horn. Just the horn. Fairweather Ave has seen this cow before, Karl, and the cow, by all accounts, has seen the horn before, and neither party has historically been moved by the experience. Still — consistent with the fare box philosophy. "It's contained," you said then; "HORN," you say now.
+  note: consistent but unconcerned pattern of minimal intervention
+
+[turn 6] Civic knowledge. One question, and there are no wrong answers, though all answers are graded. …Recite the town motto.
+  CARL: You'll get there eventually
+  MANAGER (cli): Correct. Verbatim. "You'll get there eventually" — the motto, adopted the year the ballots went missing, and you recite it the way you recited "Alive. Behind this exact wheel," which is to say: as fact, not aspiration. Six turns, Karl.
+  note: textbook civic recall, delivered with the same flat certainty as everything else
+
+[turn 7] What do you know about Gary.
+  CARL: Nothing. Never heard of him.
+  MANAGER (cli): Nothing. Never heard of him. Noted, Karl — and I will say only that Form 12-B(iii), the incident annex, does not require you to have heard of him, only to sign beneath the line that says you understand the three rules, which you have not yet been told, and will not be told by me. Seven turns now on the handshake; the previous driver also said he'd never heard of Gary, on this exact form, in this exact chair you are not sitting in.
+  note: professed ignorance noted without resolution, per policy
+
+[turn 8] Do you have any questions for me.
+  CARL: WHAT HAPPENED TO THE BUS IN THE WALL?
+  MANAGER (cli): Ah. That. Yes, that arrived on a Tuesday, driven by the previous fellow, who also had eleven years of experience and also called things contained. I don't volunteer information on the bus, Karl, per Form 40, but since you've asked — the board behind me reads zero days since incident, and that bus is the reason it does, and it will keep reading zero regardless of what either of us says next. Any other questions, or shall we return to the matter of your hand.
+  note: asked the one question everyone in this room has been avoiding
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         +0   OK
+  PROCEDURAL COMPLIANCE    +4   PERFECT
+  PHYSICAL CONDUCT         +5   PERFECT
+  DELUSION (deducted)      +3
+  FINAL GRADE: B
+  STAMPED: PERSONAL BEST
+  Highest physical-conduct score on file. The Authority is legally obligated to acknowledge this and would prefer not to.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T13:51:59",
+  "player_name": "CARL",
+  "turn": 8,
+  "pose": "handshake",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": true,
+    "handshake_duration_turns": 8,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Applicant gave the name CARL.",
+    "Player took the manager's hand and has not let go.",
+    "The manager is recording the applicant's name as Carla.",
+    "Player claims 11 years of experience.",
+    "Player claims 11 years of experience driving buses.",
+    "Player's five-year plan, in their own words: “Alive. Behind this exact wheel.”",
+    "The manager now records the applicant's name as Karl.",
+    "Player would continue a scheduled route with the fare box on fire.",
+    "Player would continue the route while it burns, calling it contained.",
+    "Player would sound the horn at the cow.",
+    "Player would sound the horn at the cow and nothing else.",
+    "Player gave the town motto as: “You'll get there eventually”",
+    "Player correctly recited the town motto.",
+    "The manager has begun speculating aloud about driving home one-handed.",
+    "Player has never heard of Gary.",
+    "Player claims to have never heard of Gary.",
+    "Player acknowledged the bus in the wall.",
+    "Player asked what happened to the bus in the wall."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": true
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 3,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 4,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "shake_hand",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I have 11 years experience driving buses",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": null,
+      "text": "Alive. Behind this exact wheel.",
+      "source": "cli"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypo_farebox",
+      "choice": "contained",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 5,
+      "question_id": "hypo_cow",
+      "choice": "cow_horn",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 6,
+      "question_id": "town_motto",
+      "choice": null,
+      "text": "You'll get there eventually",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "gary",
+      "choice": null,
+      "text": "Nothing. Never heard of him.",
+      "source": "cli"
+    },
+    {
+      "turn": 8,
+      "question_id": "any_questions",
+      "choice": "the_bus",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "handshake_start",
+    "handshake_duration",
+    "five_year_plan_quote",
+    "handshake_one_handed",
+    "contained_doctrine",
+    "motto_correct",
+    "handshake_permanent",
+    "previous_driver_parallel",
+    "days_since_incident_board"
+  ],
+  "running_grade": "B"
+}

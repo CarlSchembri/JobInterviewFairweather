@@ -1,0 +1,57 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T11:31:07   applicant: RICKY ARMPIT   backend: cli
+==========================================================================
+
+[name] RICKY ARMPIT
+  MANAGER (bank): …Rhicky armpit. Spelled the way you say it, or spelled the way the Authority already has it. Those are the two options and only one of them is available.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  POOPY MCBUTT: SIT DOWN
+  MANAGER (cli): Noted. The applicant declines the extended hand and instead issues a directive, which is not the procedure outlined on Form 12-B, box six, but he supposes it is a form of communication. He is already seated — the ledger confirms this, though the chair remains, as previously established, wrong somehow. His hand stays out over the desk regardless, unshaken, hovering there like it's waiting for a bus of its own. He writes 'MCBUTTER, P.
+  note: declined procedural handshake, redirected the interviewer instead
+
+[EXIT] player left after turn 0
+  MANAGER (bank): You lasted less than one full question. …That is not a record, R. Icky armpit, but it is close enough that I will have to look it up. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T11:31:07",
+  "player_name": "RICKY ARMPIT",
+  "turn": 0,
+  "pose": "none",
+  "pose_locked_at_turn": null,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name RICKY ARMPIT.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 0,
+    "delusion": 0,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 0,
+    "physical_comedy": 0
+  },
+  "answers": [],
+  "callbacks_used": [],
+  "running_grade": "C"
+}

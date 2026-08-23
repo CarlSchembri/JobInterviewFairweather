@@ -1,0 +1,167 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T15:08:46   applicant: CARL   backend: none
+==========================================================================
+
+[name] CARL
+  MANAGER (bank): Carle, then. I'll write it here, and then I'll write it differently further down, and the Authority will decide between them in its own time.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  CARL: SIT DOWN
+  MANAGER (bank): You sat. Without being asked, without incident, and in the correct chair. …That is the third time that has happened this year. Form 12-B, line one: compliant. Noted.
+  note: response bank
+
+[turn 2] Tell me about yourself.
+  CARL: I have 11 years experience
+  MANAGER (bank): Comfortable. Articulate. Seated. …Frankly, Charl, the last applicant who managed all three at once turned out to be here about the water heater. Line four. Noted.
+  note: response bank
+
+[turn 3] Where do you see yourself in five years.
+  CARL: Alive. Behind this exact wheel.
+  MANAGER (bank): “Alive. Behind this exact wheel.” …Ambition, from a chair, at nine-forty in the morning. The Authority logs that under line six and, historically, does nothing further with it.
+  note: response bank
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  CARL: HORN. CONTINUOUSLY. IT'S THEIR MOVE.
+  MANAGER (bank): Delivered calmly, from a seated position. …The Authority's position is that anything of this kind is covered under the “it happens” guarantee, which covers nothing. Annexed.
+  note: response bank
+
+[turn 5] Hypothetical. Dispatch routes you over the Overpass Court bridge. There is no Overpass Court bridge. Dispatch is quite certain there is.
+  CARL: I FOLLOW DISPATCH.
+  MANAGER (bank): Answered without rising, without pausing, and without a single clarifying question. …Annexed under 12-B(iii), and the form moved slightly further from the coffee. You said, and I am reading it back exactly: “Alive. Behind this exact wheel.” …The file does not forget, and increasingly, neither do I.
+  note: response bank
+
+[turn 6] Civic knowledge. One question, and there are no wrong answers, though all answers are graded. …Recite the town motto.
+  CARL: You will get there eventually
+  MANAGER (bank): “You will get there eventually.” …I have written that on line eleven exactly as you said it, which is my whole obligation and none of my opinion. You did it without standing up. The Department of Public Safety would call that best practice, if there were more than three of them. Cross-referencing. “Alive. Behind this exact wheel.” …Consistent so far. I note that with the caution it deserves.
+  note: response bank
+
+[turn 7] What do you know about Gary.
+  CARL: He ate my cousin
+  MANAGER (bank): Line fourteen. …The Gary Sighting Log is the only civic record in Fairweather that has never once had an entry removed. I am not adding to it today. Noted. “You will get there eventually” …I am reading that back so that we are both equally responsible for it.
+  note: response bank
+
+[turn 8] Do you have any questions for me.
+  CARL: What happened to the bus in the wall?
+  MANAGER (bank): “What happened to the bus in the wall?” …Genuinely a good question. The answer lives in Form 40, which nobody in this building has seen since the shredder was installed, and the shredder was installed by the Mayor's Office, and we share it. I have it in front of me. “Alive. Behind this exact wheel.” …Your words. Still in the file. Everything is. You mentioned the bus. …I have not.
+  note: response bank
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         +1   OK
+  PROCEDURAL COMPLIANCE    +4   PERFECT
+  ASSESSED TOTAL           +7    (of -20..+20)
+  DELUSION                 +3   PRONOUNCED [DEDUCTED]
+  PHYSICAL CONDUCT         +0   NOTHING TO NOTE [NO BOX FOR THIS]
+  FINAL GRADE: B-
+  RETAINED: “What happened to the bus in the wall?” Nobody will read this. It is retained regardless.
+  Above the line. The line is not high. The form records only which side.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T15:08:46",
+  "player_name": "CARL",
+  "turn": 8,
+  "pose": "seated",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": true,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Applicant gave the name CARL.",
+    "Player sat down. The chair is wrong somehow.",
+    "Player claims 11 years of experience.",
+    "Player's five-year plan, in their own words: “Alive. Behind this exact wheel.”",
+    "In a no-brakes scenario the player would sound the horn and yield nothing.",
+    "Player would drive toward a bridge that does not exist because dispatch said so.",
+    "Player gave the town motto as: “You will get there eventually”",
+    "Player correctly recited the town motto.",
+    "Player offered an account of Gary: “He ate my cousin”",
+    "Player asked: “What happened to the bus in the wall?”",
+    "Player acknowledged the bus in the wall."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": true
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 3,
+    "hazard_awareness": 1,
+    "bureaucratic_compliance": 4,
+    "physical_comedy": 0
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "sit_down",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I have 11 years experience",
+      "source": "bank"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": null,
+      "text": "Alive. Behind this exact wheel.",
+      "source": "bank"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypo_switchback",
+      "choice": "horn",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 5,
+      "question_id": "hypo_bridge",
+      "choice": "follow_dispatch",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 6,
+      "question_id": "town_motto",
+      "choice": null,
+      "text": "You will get there eventually",
+      "source": "bank"
+    },
+    {
+      "turn": 7,
+      "question_id": "gary",
+      "choice": null,
+      "text": "He ate my cousin",
+      "source": "bank"
+    },
+    {
+      "turn": 8,
+      "question_id": "any_questions",
+      "choice": null,
+      "text": "What happened to the bus in the wall?",
+      "source": "bank"
+    }
+  ],
+  "callbacks_used": [],
+  "running_grade": "B-"
+}

@@ -1,0 +1,164 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T10:33:59   applicant: DEV   backend: cli
+==========================================================================
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  DEV: STARE
+  MANAGER (cli): Nothing. Not so much as a blink. Very well — let the record show the applicant declined the hand, declined the chair, and has elected to stare, as though staring were itself a qualification. I will note that Fairweather Transit does not, technically, require blinking. Noted.
+  note: unresponsive stare read as passive defiance, dinged compliance but amused him
+
+[turn 2] Tell me about yourself.
+  DEV: I watch. I have always watched.
+  MANAGER (cli): Splendid. Let the record show the applicant's stated professional history is 'watching,' unelaborated, ongoing, and apparently lifelong — Form 12-B has a box for prior experience, and I am writing that in it now, in full. The applicant — Deb, or possibly Depp, the coffee has claimed the third letter of the sheet — continues not to blink, and I confess my own eyes have begun to water in solidarity, which I am also noting, separately, on a different line. Two full turns of unbroken eye contact now, well beyond anything the position technically requires. Noted.
+  note: answer was atmospheric, not disqualifying, but dodges the actual question
+
+[turn 3] Where do you see yourself in five years.
+  DEV: RUNNING THE TRANSIT AUTHORITY.
+  MANAGER (cli): Noted, and noted again, in the box marked Career Trajectory, which Form 12-B does not actually contain but which I am now adding in the margin for the applicant's benefit. Let the record further show that the applicant — Debra, or Deborah, or DEV, depending on which corner of the sheet the coffee spared — intends not merely to hold this position but to eventually preside over the entire Authority, chair and shredder both. Three full turns of unbroken eye contact now, and my own eyes continue to water in what I can only describe as professional courtesy. I am filing the ambition under Form 12-B
+  note: grand, specific ambition logged under the incident annex reads as high delusion with a bureaucratic deadpan handling
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  DEV: HORN. CONTINUOUSLY. IT'S THEIR MOVE.
+  MANAGER (bank): The applicant does not appear to consider this a hypothetical. …I am noting the applicant's certainty in the margin of 12-B(iii), where there is room, because there is always room. Enthusiasm. …I'll note it. It doesn't survive the first shift, but I'll note it.
+  note: response bank
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  DEV: DON'T RUN, DON'T STARE, DON'T WAVE.
+  MANAGER (bank): The applicant recites. The applicant does not blink. I have marked line eleven “complete” and moved my chair back approximately four inches, which I will not be putting in the file. The applicant continues not to blink. I have moved my chair. Enthusiasm. …I'll note it. It doesn't survive the first shift, but I'll note it.
+  note: response bank
+
+[turn 6] What do you know about Gary.
+  DEV: I saw Gary leave. Mid-air. Twice.
+  MANAGER (cli): The applicant states, without hedging, that Gary was observed leaving. Mid-air. Twice — and I want it on the record that 'twice' is doing a great deal of unexamined work in that sentence, work I am choosing not to examine. I have marked the Sighting Log entry as corroborated, which it does not need to be, because the Sighting Log has never once had an entry removed and is not about to start today. The applicant still has not blinked.
+  note: engaged the Gary question directly with specific, unsettling detail rather than deflecting
+
+[turn 7] Do you have any questions for me.
+  DEV: IS GARY GOING TO BE A PROBLEM?
+  MANAGER (cli): Is Gary going to be a problem — the applicant asks this on the seventh consecutive turn of not blinking, a fact I mention only because my own eyes have begun to physically object on my behalf. Gary is not a problem. Gary is a category on Form 40 for which the Authority has never printed a subsection, and I am not going to hand-letter one at whatever hour this currently is. I will say only this, applicant Debra — Deven — D. , depending on which corner the coffee spared: nobody who has needed to ask that question has ever needed to ask it twice.
+  note: asked a real safety question but got stonewalled, which is itself informative
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +0   OK
+  HAZARD AWARENESS         +5   PERFECT
+  PROCEDURAL COMPLIANCE    -5   AWFUL
+  PHYSICAL CONDUCT         +5   PERFECT
+  DELUSION (deducted)      +5
+  FINAL GRADE: C
+  This interview has been forwarded to the Bridge Fund committee for review. They are aware.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T10:33:59",
+  "player_name": "DEV",
+  "turn": 7,
+  "pose": "stare",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 7,
+    "left_early": false
+  },
+  "facts_established": [
+    "Player remained standing and has not blinked.",
+    "Manager narrated the standoff aloud and began referring to the applicant in third person.",
+    "Applicant declined the extended handshake.",
+    "Player described themselves as: “I watch. I have always watched.”",
+    "Applicant stated their qualification as watching, described as lifelong and ongoing.",
+    "Manager's eyes began watering in solidarity with the applicant's unbroken stare.",
+    "Player intends to run the Transit Authority within five years.",
+    "Manager logged the applicant's ambition to eventually run the entire Transit Authority.",
+    "Manager filed the five-year ambition under the incident annex, Form 12-B(iii), as a precaution.",
+    "Eye contact has now held unbroken for three full turns.",
+    "In a no-brakes scenario the player would sound the horn and yield nothing.",
+    "Player recited the three rules of Fairweather instead of the motto.",
+    "Player offered an account of Gary: “I saw Gary leave. Mid-air. Twice.”",
+    "Applicant reported witnessing Gary leave mid-air on two separate occasions.",
+    "Manager logged the sighting as corroborated in the Gary Sighting Log.",
+    "Player asked whether Gary will be a problem.",
+    "Manager declined to confirm or deny whether Gary is a problem.",
+    "Eye contact has now held unbroken for seven consecutive turns."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": true,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 0,
+    "delusion": 5,
+    "hazard_awareness": 5,
+    "bureaucratic_compliance": -5,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "stare",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I watch. I have always watched.",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "running_authority",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "horn",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_gary",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "I saw Gary leave. Mid-air. Twice.",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "gary_problem",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "stare_pose",
+    "third_person_report",
+    "eye_contact_unbroken",
+    "stare_turn4",
+    "stare_turn5",
+    "eye_contact_turn7"
+  ],
+  "running_grade": "C"
+}

@@ -1,0 +1,165 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T10:09:50   applicant: PATIENCE   backend: cli
+==========================================================================
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  PATIENCE: SHAKE HAND
+  MANAGER (cli): Ah. Patricia. Or Prudence — Form 12-B has been rained on and the ink has made its own decisions. He does not withdraw the hand. He simply looks at it, then at you, then back at it, the way a man regards a parking meter that has eaten his last coin.
+  note: compliant opening gesture, mildly absurd, no risk taken yet
+
+[turn 2] Tell me about yourself.
+  PATIENCE: I have 22 years experience on city routes
+  MANAGER (cli): Twenty-two years. On city routes. Noted, Patrice — Form 12-B has a box for this, third from the top, and I am filling it in with my free hand, since the other one appears to have entered into some kind of arrangement with yours. Twenty-two years is a considerable span of time to have spent driving. It is a considerably less impressive span of time to have spent, just now, still shaking my hand.
+  note: coherent answer given, but handshake remains unresolved and unaddressed
+
+[turn 3] Where do you see yourself in five years.
+  PATIENCE: DRIVING THIS EXACT ROUTE.
+  MANAGER (bank): Five years is a long horizon for a man who cannot presently reach his own stapler. …I ask because line six requires me to assess FEASIBILITY, Patienco, and I am assessing it one-handed. We are, I observe, still shaking hands.
+  note: response bank
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  PATIENCE: DOWNSHIFT, CURB THE BUS, TAKE THE WALL.
+  MANAGER (cli): Downshift, curb, wall — consistent, Patients, with your earlier stated policy, and Form 12-B(iii) rewards consistency the way a mattress rewards a body: slowly, and with visible depression. He notes this one-handed, the pen scratching at an angle no penmanship class would endorse, since the other hand remains — I am told — still yours. Property damage at the base of Switchback Ridge is, structurally, routine; a wedding party is not a repair-allowance line item, and the Authority thanks you for knowing the difference. Five turns, Patients. We are five turns into a handshake.
+  note: correct hazard call, consistent with prior stated policy, delivered one-handed mid-handshake
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  PATIENCE: YOU'LL GET THERE EVENTUALLY.
+  MANAGER (bank): Civic knowledge: recorded. …I would shake your hand on it, Phatience, but we appear to have that portion of the interview well in hand. Line eleven. Noted. I have stopped expecting this to end. That is not a complaint, it is a filing decision.
+  note: response bank
+
+[turn 6] What do you know about Gary.
+  PATIENCE: Nothing. Also I have no license, never did.
+  MANAGER (bank): …Yes. Well. I'm going to write “Gary” on line fourteen and then I'm going to write nothing else on line fourteen. My hand is otherwise engaged, Mr. Patienc, and my other hand is engaged with you. I have begun to wonder how I will drive home. …I have begun to wonder whether you will be driving me home. Line nine remains blank. I am choosing to read that as modesty.
+  note: response bank
+
+[turn 7] Do you have any questions for me.
+  PATIENCE: WHAT HAPPENED TO THE BUS IN THE WALL?
+  MANAGER (cli): The bus. Yes. … I said I would not mention the bus, Ms. Pathience, and you have taken that decision away from me, which is itself noted on line fourteen as a leadership quality.
+  note: asked a direct question about the bus, engaging with set dressing without breaking format
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         +5   PERFECT
+  PROCEDURAL COMPLIANCE    +4   PERFECT
+  PHYSICAL CONDUCT         +5   PERFECT
+  DELUSION (deducted)      +0
+  FINAL GRADE: A-
+  STAMPED: PERSONAL BEST
+  Personal best. The Authority is legally obligated to acknowledge this.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T10:09:50",
+  "player_name": "PATIENCE",
+  "turn": 7,
+  "pose": "handshake",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": true,
+    "handshake_duration_turns": 7,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Player took the manager's hand and has not let go.",
+    "Manager has not withdrawn his hand.",
+    "Manager referred to the applicant as Patricia and Prudence.",
+    "Player claims 22 years of experience.",
+    "Player claims 22 years of experience on city routes.",
+    "Handshake persisted into turn 2 without comment from the player.",
+    "Player intends to drive the same route for five years.",
+    "Player would put the bus into a wall rather than the crosswalk.",
+    "Player chose to downshift, curb the bus, and take the wall rather than hit the wedding party.",
+    "Manager referred to the applicant as Patients.",
+    "Player correctly recited the town motto.",
+    "Player admitted to having no valid license.",
+    "Player has never heard of Gary.",
+    "Player acknowledged the bus in the wall.",
+    "Player asked what happened to the bus in the wall.",
+    "Manager confirmed the bus arrived and stopped arriving.",
+    "Previous driver's file remains open on the desk."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": true,
+    "lied_about_something": true,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": true
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 0,
+    "hazard_awareness": 5,
+    "bureaucratic_compliance": 4,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "shake_hand",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I have 22 years experience on city routes",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "same_route",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "take_the_wall",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_correct",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "Nothing. Also I have no license, never did.",
+      "source": "bank"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "the_bus",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "handshake_ongoing",
+    "handshake_turn3",
+    "wall_over_crosswalk",
+    "handshake_turn5",
+    "handshake_turn6",
+    "acknowledged_bus_callback",
+    "handshake_turn7"
+  ],
+  "running_grade": "A-"
+}

@@ -1,0 +1,52 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T12:12:58   applicant: 6786788   backend: cli
+==========================================================================
+
+[name] 6786788
+  MANAGER (bank): Mr. 678678. Filed under the wrong letter, which is where I file everyone. It has never once caused a problem that anyone told me about.
+
+[EXIT] player left after turn 0
+  MANAGER (bank): You lasted less than one full question. …That is not a record, 678678a, but it is close enough that I will have to look it up. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T12:12:58",
+  "player_name": "6786788",
+  "turn": 0,
+  "pose": "none",
+  "pose_locked_at_turn": null,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name 6786788.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 0,
+    "delusion": 0,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 0,
+    "physical_comedy": 0
+  },
+  "answers": [],
+  "callbacks_used": [],
+  "running_grade": "C"
+}

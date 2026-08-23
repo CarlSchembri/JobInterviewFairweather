@@ -1,0 +1,57 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T11:19:56   applicant: FRANK NUTTY   backend: cli
+==========================================================================
+
+[name] FRANK NUTTY
+  MANAGER (bank): …Frrank nutty. Good. Strong name. …The previous driver had a name like that. Form 12-B, line one.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  JIMMY TAMALE: SHAKE HAND
+  MANAGER (cli): Ah. A grip. Decisive. The Authority appreciates decisiveness, Mr. Tomali — Tamale — the sheet is coffee-stained in the relevant quadrant.
+  note: compliant opening gesture, procedurally sound, duration not yet a concern
+
+[EXIT] player left after turn 0
+  MANAGER (bank): You lasted less than one full question. …That is not a record, Frank Nuttye, but it is close enough that I will have to look it up. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T11:19:56",
+  "player_name": "FRANK NUTTY",
+  "turn": 0,
+  "pose": "none",
+  "pose_locked_at_turn": null,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name FRANK NUTTY.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 0,
+    "delusion": 0,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 0,
+    "physical_comedy": 0
+  },
+  "answers": [],
+  "callbacks_used": [],
+  "running_grade": "C"
+}

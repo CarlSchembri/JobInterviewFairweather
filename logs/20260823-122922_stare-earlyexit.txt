@@ -1,0 +1,96 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T12:29:22   applicant: DEV   backend: none
+==========================================================================
+
+[name] DEV
+  MANAGER (bank): Deve, then. I'll write it here, and then I'll write it differently further down, and the Authority will decide between them in its own time.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  DEV: STARE
+  MANAGER (bank): …Yes. Hello. The applicant is standing at a distance I will have to estimate later for the record. Line one of Form 12-B asks for a first impression and I find I am reaching for a ruler instead. We'll proceed.
+  note: response bank
+
+[turn 2] Tell me about yourself.
+  DEV: I watch. I have always watched.
+  MANAGER (bank): The applicant answers the question without altering expression or blink rate. …I am dictating that. It goes in the annex. The applicant may continue.
+  note: response bank
+
+[turn 3] Where do you see yourself in five years.
+  DEV: RUNNING THE TRANSIT AUTHORITY.
+  MANAGER (bank): The applicant projects five years into the future without breaking eye contact with the present. I am recording that verbatim because I do not know how else to record it. Line six. Annexed. The applicant has not blinked. I am noting the duration. Enthusiasm. …I'll note it. It doesn't survive the first shift, but I'll note it.
+  note: response bank
+
+[EXIT] player left after turn 3
+  MANAGER (bank): Nine minutes. …Or 3 questions, which is how Form 12-B measures it, and Form 12-B is what I have. The applicant is leaving. The applicant is leaving while still facing me. I am dictating this into the annex as it happens. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T12:29:22",
+  "player_name": "DEV",
+  "turn": 3,
+  "pose": "stare",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 3,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name DEV.",
+    "Player remained standing and has not blinked.",
+    "Player described themselves as: “I watch. I have always watched.”",
+    "Player intends to run the Transit Authority within five years.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": true,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 0,
+    "delusion": 4,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": -1,
+    "physical_comedy": 2
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "stare",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I watch. I have always watched.",
+      "source": "bank"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "running_authority",
+      "text": null,
+      "source": "bank"
+    }
+  ],
+  "callbacks_used": [
+    "stare_turn1",
+    "stare_turn2",
+    "stare_turn3"
+  ],
+  "running_grade": "C-"
+}

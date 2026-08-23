@@ -1,0 +1,166 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T12:35:49   applicant: HARRY BEANO   backend: cli
+==========================================================================
+
+[name] HARRY BEANO
+  MANAGER (bank): Harry Beana, then. I'll write it here, and then I'll write it differently further down, and the Authority will decide between them in its own time.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  HARRY BEANO: SIT DOWN
+  MANAGER (cli): Sit down. Noted, though you accomplished that some turns ago, Mr. Beeno — Form 12-B, box four, 'Seated: Yes,' already checked. The hand, meanwhile, remains extended across the desk, patient, unshaken, doing absolutely nothing for either of us. NOTED.
+  note: non-sequitur command redirected at the interviewer, logged rather than resisted
+
+[turn 2] Tell me about yourself.
+  HARRY BEANO: Dinosaur butthole
+  MANAGER (cli): Dinosaur butthole. Noted, verbatim, under Section Three, 'Applicant's Own Words' — Form 12-B does not editorialize, it only transcribes. My hand, Mr. Beeno, remains exactly where I left it, extended, patient, still hoping for a shake it is no longer owed an explanation for. We will call that self-description 'candid' on the paperwork, and 'concerning' privately, in my own head, where the Authority cannot subpoena it.
+  note: high candor, low form-appropriateness, unresolved handshake still weighing on compliance
+
+[turn 3] Where do you see yourself in five years.
+  HARRY BEANO: ALIVE.
+  MANAGER (cli): ALIVE. Noted, in block capitals, exactly as delivered, under Section Five, 'Long-Term Objectives' — most applicants write 'assistant regional supervisor,' Mr. Beelo, you have written a survival goal, which Form 12-B files under the same header regardless. I will say this: it shows an awareness of the position that your predecessor lacked in his final documented weeks. My hand remains out here, unshaken, five years into its own five-year plan, which was considerably more modest than yours.
+  note: blunt, low-ambition honesty read as unusually high hazard awareness for the role
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  HARRY BEANO: AIM FOR THE SOFTEST PART OF THE WEDDING.
+  MANAGER (cli): AIM FOR THE SOFTEST PART OF THE WEDDING. Noted, Mr. Beano — filed under Form 12-B(iii) as 'target triage,' which the Authority frankly prefers to applicants who simply close their eyes and coast. For the record, the bride is traditionally considered the most structurally forgiving member of the party, so your instincts, God help us, are sound. My hand remains extended across this desk, unshaken, quietly rehearsing how it intends to steer me home tonight.
+  note: morbidly specific triage answer reads as tactical rather than reckless
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  HARRY BEANO: EXACT CHANGE IS APPRECIATED.
+  MANAGER (cli): EXACT CHANGE IS APPRECIATED. Noted, Mr. Beemo, though for the record that particular phrase is fare-box signage, not Section One of the town charter — the actual motto is 'You'll Get There Eventually,' adopted in a vote nobody received a ballot for. Form 12-B files civic knowledge under 'aspirational' regardless of accuracy, so I'll mark this one confident rather than correct. My hand, still extended, still unshaken, has begun drafting its own testimony for Form 40.
+  note: civic answer confidently wrong, filed as aspirational rather than accurate
+
+[turn 6] What do you know about Gary.
+  HARRY BEANO: Your mom
+  MANAGER (cli): YOUR MOTHER. Noted, Mr. Beano — filed under Section Seven, 'Character References,' though I should clarify Gary is not, to the Authority's knowledge, anyone's mother, which is itself the kind of thing the Sighting Log exists to not resolve. I will remind you that Rule Two of Fairweather civic education is 'don't stare,' and Rule Three is 'don't wave' — nobody has ever needed a Rule Four, and I intend to keep it that way on your watch. My hand, still extended, still unshaken, has stopped rehearsing testimony and started rehearsing acceptance.
+  note: deflected the Gary question with a non-answer, low candor but not penalized further since already flagged
+
+[turn 7] Do you have any questions for me.
+  HARRY BEANO: NO. I'D LIKE TO START IMMEDIATELY.
+  MANAGER (cli): NO QUESTIONS. Noted, Mr. Beedo — Form 12-B closes at Section Nine without a single query about wages, hours, insurance, or the whereabouts of your predecessor, which the Authority has never once seen from an applicant destined for a long tenure. You may start immediately, effective the moment this handshake concludes, a moment my hand stopped expecting to arrive somewhere around turn four. HIRED.
+  note: skipped questions entirely, including any about safety or the predecessor, read as confidence outrunning caution
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         +2   GOOD
+  PROCEDURAL COMPLIANCE    +5   PERFECT
+  PHYSICAL CONDUCT         +5   PERFECT
+  DELUSION (deducted)      +4
+  FINAL GRADE: B+
+  STAMPED: PERSONAL BEST
+  Personal best. The Authority is legally obligated to acknowledge this.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T12:35:49",
+  "player_name": "HARRY BEANO",
+  "turn": 7,
+  "pose": "seated",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": true,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Applicant gave the name HARRY BEANO.",
+    "Player sat down. The chair is wrong somehow.",
+    "Applicant told the manager to sit down.",
+    "The manager's extended hand remains unshaken.",
+    "Player described themselves as: “Dinosaur butthole”",
+    "Applicant described self as 'Dinosaur butthole' when asked to talk about themselves.",
+    "Player's five-year plan is to be alive.",
+    "Applicant emphasized ALIVE in capital letters as the entirety of the five-year plan.",
+    "Manager noted the goal shows more hazard awareness than most applicants display.",
+    "Player would aim for the softest part of the wedding party.",
+    "Applicant answered the Switchback Ridge brake-failure hypothetical by aiming for the softest part of the wedding party.",
+    "Manager filed the answer as 'target triage' under Form 12-B(iii).",
+    "Player recited a fare notice and believes it is the town motto.",
+    "Applicant recited 'exact change is appreciated' as the town motto.",
+    "Manager corrected the actual motto as 'You'll Get There Eventually.'",
+    "Player offered an account of Gary: “Your mom”",
+    "Applicant answered a question about Gary with \"Your mom.\"",
+    "Player asked to start immediately.",
+    "Applicant declined to ask any questions.",
+    "Applicant requested to start immediately.",
+    "Manager declared the applicant hired."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": true,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 4,
+    "hazard_awareness": 2,
+    "bureaucratic_compliance": 5,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "sit_down",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "Dinosaur butthole",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "alive",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "aim_soft",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_fare",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "Your mom",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "start_now",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "extended_hand"
+  ],
+  "running_grade": "B+"
+}

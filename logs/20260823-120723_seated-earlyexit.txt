@@ -1,0 +1,70 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T12:07:12   applicant: 34345354   backend: cli
+==========================================================================
+
+[name] 34345354
+  MANAGER (bank): …3434535o. Good. Strong name. …The previous driver had a name like that. Form 12-B, line one.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  123123: SIT DOWN
+  MANAGER (cli): Sit—no. No, that is not how Form 12-B proceeds, and I would ask you not to invent steps. The hand stays out until it is met, that is the entire choreography, it is not complicated, it is page one. So. We will simply wait here, you and I, hand extended, until decorum reasserts itself...
+  note: deflected the handshake with an order instead of a name or gesture, mildly insubordinate but not dishonest
+
+[EXIT] player left after turn 1
+  MANAGER (bank): You lasted less than one full question. …That is not a record, Mr. 12312, but it is close enough that I will have to look it up. You are standing up. I had gotten used to you sitting down. …Very little in this office gets used to anything. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T12:06:52",
+  "player_name": "123123",
+  "turn": 1,
+  "pose": "seated",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": true,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name 123123.",
+    "Player sat down. The chair is wrong somehow.",
+    "Applicant told the manager to sit down instead of shaking his hand.",
+    "The manager's hand remains extended, unshaken.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 0,
+    "delusion": 0,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 3,
+    "physical_comedy": 1
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "sit_down",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "extended_hand"
+  ],
+  "running_grade": "C+"
+}

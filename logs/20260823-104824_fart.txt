@@ -1,0 +1,154 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T10:41:43   applicant: BILLY BEANS   backend: cli
+==========================================================================
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  BILLY BEANS: FART
+  MANAGER (bank): … …Right. The ventilation in this office was condemned in 2004 and the council has not reached quorum since, so nothing has been done about it. Let's begin, B. Illy beans. Form 12-B, line one.
+  note: response bank
+
+[turn 2] Tell me about yourself.
+  BILLY BEANS: I like turtles
+  MANAGER (bank): I've written it down. I have written down exactly and only what you said, Biilly beans, which is the whole of my professional obligation under Form 12-B. The window does not open. It never has. I want it on the record that the previous driver's medical file is open on this desk, and has been for some time.
+  note: response bank
+
+[turn 3] Where do you see yourself in five years.
+  BILLY BEANS: ALIVE.
+  MANAGER (bank): Five years. …The previous driver said something similar, and his medical file is still on this desk, open, where he left it. Line six. Noted. The window does not open. It never has.
+  note: response bank
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  BILLY BEANS: DOWNSHIFT, CURB THE BUS, TAKE THE WALL.
+  MANAGER (bank): Understood. …Switchback Ridge has had guardrails pending Bridge Fund approval since before I was assigned to this department. Your answer changes nothing about that and I have annexed it anyway. The ventilation was condemned in 2004.
+  note: response bank
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  BILLY BEANS: YOU'LL GET THERE EVENTUALLY.
+  MANAGER (cli): Correct. … Verbatim, in fact, Ms. Beans, which is more than can be said for the council that adopted it. "You'll get there eventually" — Form 12-B, line seven, civic knowledge, full marks, for whatever that has ever been worth to anyone in this building.
+  note: Verbatim, correct civic answer — rewarded for compliance, read as further evidence of low delusion
+
+[turn 6] What do you know about Gary.
+  BILLY BEANS: He is into bananas
+  MANAGER (cli): Bananas. Noted, filed, and annexed to the Gary Sighting Log — one hundred and eleven entries now, Mx. Beanbag, and not one of them explains anything. The previous driver's medical file remains open on this desk for reasons this department has elected not to revisit, and I will remind you that if Gary ever offers you a snack, the snack is also Gary. Form 12-B has no box for that.
+  note: answered about Gary with unverifiable civic color, log cross-referenced, no hazard info gained
+
+[turn 7] Do you have any questions for me.
+  BILLY BEANS: WHAT HAPPENED TO THE BUS IN THE WALL?
+  MANAGER (cli): The bus. Noted that you noticed, Mr. Beans — Billy, per the coffee stain, though the form still insists on 'William.' That inquiry falls under Form 12-B(iii), the incident annex, which remains open, as does the previous driver's medical file beside it. I am not at liberty to discuss an active annex, but I can confirm the wall filed no complaint, which is more than can be said for the bus.
+  note: asked a direct question but received procedural deflection, which counts as initiative, not answers
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         +5   PERFECT
+  PROCEDURAL COMPLIANCE    +3   GOOD
+  PHYSICAL CONDUCT         +4   PERFECT
+  DELUSION (deducted)      -1
+  FINAL GRADE: A-
+  STAMPED: COMMENDATION
+  Exemplary service. The Authority has no notes.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T10:41:43",
+  "player_name": "BILLY BEANS",
+  "turn": 7,
+  "pose": "fart",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": true,
+    "fart_count": 1,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Something occurred. Neither party will refer to it again.",
+    "Player described themselves as: “I like turtles”",
+    "Player's five-year plan is to be alive.",
+    "Player would put the bus into a wall rather than the crosswalk.",
+    "Player correctly recited the town motto.",
+    "Player recited the town motto verbatim and received full marks for it.",
+    "Player offered an account of Gary: “He is into bananas”",
+    "Gary Sighting Log stands at one hundred eleven entries as of this interview",
+    "Player acknowledged the bus in the wall.",
+    "Player asked what happened to the bus in the wall.",
+    "Manager declined to explain the bus, citing Form 12-B(iii)."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": true
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": -1,
+    "hazard_awareness": 5,
+    "bureaucratic_compliance": 3,
+    "physical_comedy": 4
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "fart",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I like turtles",
+      "source": "bank"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "alive",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "take_the_wall",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_correct",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "He is into bananas",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "the_bus",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "previous_driver_medical_file",
+    "gary_sighting_log"
+  ],
+  "running_grade": "A-"
+}

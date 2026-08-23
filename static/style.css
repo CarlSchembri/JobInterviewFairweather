@@ -1,0 +1,48 @@
+/* The page is a bezel. Everything that matters is drawn on the canvas. */
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background: #000000;
+  color: #AAAAAA;
+  font-family: "Courier New", Courier, monospace;
+  overflow: hidden;
+}
+
+#cabinet {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12px;
+}
+
+#screen {
+  /* 320x200 is 8:5. Fit the viewport without ever breaking that ratio. */
+  width: min(100vw - 24px, (100vh - 70px) * 1.6);
+  height: auto;
+  aspect-ratio: 8 / 5;
+  display: block;
+  background: #000000;
+  border: 2px solid #555555;
+  box-shadow: 0 0 0 6px #000000, 0 0 26px rgba(85, 255, 85, 0.10);
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  cursor: crosshair;
+}
+
+#hint {
+  margin: 0;
+  font-size: 11px;
+  letter-spacing: 0.09em;
+  color: #555555;
+  text-align: center;
+  user-select: none;
+}
+
+@media (max-height: 420px) { #hint { display: none; } }

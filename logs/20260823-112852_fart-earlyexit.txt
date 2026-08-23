@@ -1,0 +1,113 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T11:20:47   applicant: JOHNNY HAMSTER   backend: cli
+==========================================================================
+
+[name] JOHNNY HAMSTER
+  MANAGER (bank): …Jhohnny hamster. Spelled the way you say it, or spelled the way the Authority already has it. Those are the two options and only one of them is available.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  JOHNNY HAMSTER: FART
+  MANAGER (cli): Noted. Filed. Under advisement. He does not withdraw the hand, though the air between them now carries a certain... civic weight, the kind Form 12-B(iii) refers to only as 'atmospheric incident, non-structural.
+  note: deadpan non-acknowledgment sustains the bit without breaking form
+
+[turn 2] Tell me about yourself.
+  JOHNNY HAMSTER: I fart a ton
+  MANAGER (cli): Noted. Filed under Form 12-B, Personal Disclosures, subsection 'Self-Assessment, Unsolicited.' The ventilation in this office has not functioned since before either of us were born, Mr. Hampster, and the previous driver's medical file — which remains, for reasons administrative, open on this desk — uses the phrase 'atmospheric sensitivity' in a manner I now understand rather better than I did five minutes ago. We will consider your background established and proceed to qualifications, assuming there are any.
+  note: candid but not exactly a qualification
+
+[turn 3] Where do you see yourself in five years.
+  JOHNNY HAMSTER: I DON'T PLAN AHEAD. THE BRIDGES TAUGHT ME.
+  MANAGER (bank): Five years. …The previous driver said something similar, and his medical file is still on this desk, open, where he left it. Line six. Noted. The window does not open. It never has. The Bridge Fund has been almost fully funded for eleven consecutive years. Please do not ask to see the bridge.
+  note: response bank
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  JOHNNY HAMSTER: HORN. CONTINUOUSLY. IT'S THEIR MOVE.
+  MANAGER (cli): Hampster—Hamston—the sheet insists 'Hamster,' we'll allow it. HORN. CONTINUOUSLY. Noted, and consistent, Form 12-B(iii) will observe, with your prior testimony regarding the bridges and the virtues of not planning ahead — consistency being, in this office, the single most alarming quality a candidate can display. The wedding party's move is theirs to make and yours, apparently, to outlast at volume.
+  note: reaffirms zero hazard awareness, now flagged as a consistent pattern rather than a one-off
+
+[EXIT] player left after turn 5
+  MANAGER (bank): Nine minutes. …Or 5 questions, which is how Form 12-B measures it, and Form 12-B is what I have. You may go. The ventilation was condemned in 2004 and I would not want you to feel responsible for a municipal failure. You asked about Gary. …Nobody in Fairweather has ever seen Gary arrive. Only leave. I notice you're doing the same. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T11:20:47",
+  "player_name": "JOHNNY HAMSTER",
+  "turn": 5,
+  "pose": "fart",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": true,
+    "fart_count": 1,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name JOHNNY HAMSTER.",
+    "Something occurred. Neither party will refer to it again.",
+    "The manager did not withdraw his extended hand after the incident.",
+    "Player described themselves as: “I fart a ton”",
+    "Applicant's self-description on record: flatulence, stated as a defining trait.",
+    "Player cites the bridges as a reason not to plan ahead.",
+    "In a no-brakes scenario the player would sound the horn and yield nothing.",
+    "Applicant confirmed the no-brakes answer: horn only, no yielding, consistent with the bridges/no-planning testimony.",
+    "Player recited the three rules of Fairweather instead of the motto.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": true,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 2,
+    "hazard_awareness": -1,
+    "bureaucratic_compliance": -1,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "fart",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I fart a ton",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "no_planning",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "horn",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "fart_unacknowledged",
+    "previous_driver_medical_file",
+    "bridges_no_planning_consistency"
+  ],
+  "running_grade": "B-"
+}

@@ -1,0 +1,161 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T10:21:21   applicant: BUSTER   backend: cli
+==========================================================================
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  BUSTER: FART
+  MANAGER (cli): Noted. He does not withdraw the hand. He merely turns his head a precise fifteen degrees toward the ventilation grate, holds it there a beat, and turns back, as though consulting an instrument only he can read. The previous driver's file is still open on the desk, one word underlined twice, and for a moment he looks at it instead of you. Mister...
+  note: declined the handshake with a bodily rebuttal; compliance dips, comedy spikes
+
+[turn 2] Tell me about yourself.
+  BUSTER: I love this town and I love a bus
+  MANAGER (cli): Noted: Mister Duster loves this town, and loves a bus — unspecified, no make, no model, no route number, a violation of Form 12-B Section 4 which he will need to amend by Friday. It is a rare candidate who declares affection before qualification, and rarer still who does so with the previous driver's file lying open between them, one word underlined twice, still unread by the party it concerns. He writes 'loyalty: yes, specificity: pending' without looking up, because looking up would mean acknowledging the coffee cup that has, in the last ninety seconds, developed a skin. Noted. Filed.
+  note: answered the question directly but vaguely, warmly received, no specifics to log
+
+[turn 3] Where do you see yourself in five years.
+  BUSTER: I DON'T PLAN THAT FAR AHEAD. THE BRIDGES TAUGHT ME THAT.
+  MANAGER (cli): Noted: the bridges taught Mister Muster not to plan ahead, which the Authority finds less a personal philosophy than a load-bearing structural failure repeated as career advice. He writes 'five-year plan: municipal collapse, ongoing' on the Bridge Fund line of Form 12-B, since the two have clearly become the same document. The Bridge Fund remains almost fully funded, same as it has for eleven years, and he finds a strange comfort in a man who has finally caught up to it. He does not look up. He does not need to.
+  note: no five-year plan offered, but the bridge answer is at least consistent with itself
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  BUSTER: AIM FOR THE SOFTEST PART OF THE WEDDING.
+  MANAGER (bank): Understood. …Switchback Ridge has had guardrails pending Bridge Fund approval since before I was assigned to this department. Your answer changes nothing about that and I have annexed it anyway. The ventilation was condemned in 2004. The Bridge Fund has been almost fully funded for eleven consecutive years. Please do not ask to see the bridge.
+  note: response bank
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  BUSTER: FAIRWEATHER: REBUILT FOURTEEN TIMES.
+  MANAGER (cli): Noted: the motto as recited is 'Fairweather: Rebuilt Fourteen Times,' which is not, technically, the motto. The motto is 'You'll Get There Eventually,' adopted in a vote whose ballots were never delivered, a detail Mister Custer may find relevant to his own five-year plan. There are no wrong answers. All answers are graded, which is a separate matter, and he writes 'civic knowledge: creative' beneath the coffee cup that has, in the last minute, acquired a second skin. Noted.
+  note: confident, fabricated motto graded as 'creative' rather than corrected
+
+[turn 6] What do you know about Gary.
+  BUSTER: who is gary
+  MANAGER (cli): Noted: the applicant does not know who Gary is, a gap Form 12-B does not have a box for and which the Authority will now annex by hand. He does not explain, and would remind Mister Custer that explaining is, itself, a Section violation. The Gary Sighting Log remains the only civic record that has never once had an entry removed, and it will remain closed on this desk, unread, same as the previous driver's file beside it. Noted. Filed.
+  note: ignorance of Gary reconfirmed under direct questioning, hazard awareness dips further
+
+[turn 7] Do you have any questions for me.
+  BUSTER: WHAT DOES IT PAY?
+  MANAGER (cli): Compensation is addressed on Form 12-B, Section Nine, in a font the Authority selected specifically so that it would need to be read twice. The base rate is generous by the standards of a town that prefers to pay in gratitude and Bridge Fund certificates, with deductions itemized against the repair allowance the moment the shift ends, never before. The previous driver's file remains open on this desk, beside the coffee cup that has, in the last minute, acquired a second skin, and Mister Fluster is welcome to ask what he was paid — though the Authority notes that nobody ever has. Noted.
+  note: a normal, procedural question — rare enough to earn quiet credit
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         -5   AWFUL
+  PROCEDURAL COMPLIANCE    +4   PERFECT
+  PHYSICAL CONDUCT         +5   PERFECT
+  DELUSION (deducted)      +4
+  FINAL GRADE: C+
+  This interview has been forwarded to the Bridge Fund committee for review. They are aware.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T10:21:21",
+  "player_name": "BUSTER",
+  "turn": 7,
+  "pose": "fart",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": true,
+    "fart_count": 1,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Something occurred. Neither party will refer to it again.",
+    "The handshake remains unresolved; the hand is still extended.",
+    "Player described themselves as: “I love this town and I love a bus”",
+    "Player described loving the town and loving a bus, unspecified.",
+    "The applicant's name is now recorded as Duster.",
+    "Player cites the bridges as a reason not to plan ahead.",
+    "Player cites the bridges as a philosophy of not planning ahead, offered as five-year-plan answer.",
+    "The applicant's name is now recorded as Muster.",
+    "Player would aim for the softest part of the wedding party.",
+    "Player believes the town motto refers to the fourteen rebuilds.",
+    "Player recited the town motto as 'rebuilt fourteen times' rather than the actual motto.",
+    "The applicant's name is now recorded as Custer.",
+    "Player has never heard of Gary.",
+    "Player claims to have never heard of Gary, repeated on direct questioning.",
+    "Player asked what the position pays.",
+    "Player asked what the position pays, prompting reference to the previous driver's unclosed file.",
+    "The applicant's name is now recorded as Fluster."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": true,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": true,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 4,
+    "hazard_awareness": -5,
+    "bureaucratic_compliance": 4,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "fart",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I love this town and I love a bus",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "no_planning",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "aim_soft",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_rebuilt",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "who is gary",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "the_pay",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "previous_drivers_file",
+    "ventilation_grate",
+    "bridge_fund",
+    "coffee_cup_skin"
+  ],
+  "running_grade": "C+"
+}

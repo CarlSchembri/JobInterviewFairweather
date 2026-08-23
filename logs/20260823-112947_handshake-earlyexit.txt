@@ -1,0 +1,53 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T11:29:31   applicant: GENE LEMMONS   backend: cli
+==========================================================================
+
+[name] GENE LEMMONS
+  MANAGER (bank): …Ghene lemmons. Spelled the way you say it, or spelled the way the Authority already has it. Those are the two options and only one of them is available.
+
+[EXIT] player left after turn 1
+  MANAGER (bank): You lasted less than one full question. …That is not a record, Gene Lemmono, but it is close enough that I will have to look it up. You never let go of my hand. I want to be clear that I am not objecting. I am asking whether you intend to take it with you. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T11:29:31",
+  "player_name": "GENE LEMMONS",
+  "turn": 1,
+  "pose": "handshake",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": true,
+    "handshake_duration_turns": 1,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name GENE LEMMONS.",
+    "Player took the manager's hand and has not let go.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 0,
+    "delusion": 0,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 1,
+    "physical_comedy": 2
+  },
+  "answers": [],
+  "callbacks_used": [],
+  "running_grade": "C+"
+}

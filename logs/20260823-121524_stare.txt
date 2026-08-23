@@ -1,0 +1,159 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T12:14:11   applicant: CARLITO BANDITO   backend: none
+==========================================================================
+
+[name] CARLITO BANDITO
+  MANAGER (bank): Carlito Bandito. …Noted. That is not what the sheet says, but the sheet has a ring on it, and the ring got there first. Form 12-B, line one.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  CARLITO BANDITO: STARE
+  MANAGER (bank): …Yes. Hello. The applicant is standing at a distance I will have to estimate later for the record. Line one of Form 12-B asks for a first impression and I find I am reaching for a ruler instead. We'll proceed.
+  note: response bank
+
+[turn 2] Tell me about yourself.
+  CARLITO BANDITO: Keeps Staring
+  MANAGER (bank): The applicant answers the question without altering expression or blink rate. …I am dictating that. It goes in the annex. The applicant may continue.
+  note: response bank
+
+[turn 3] Where do you see yourself in five years.
+  CARLITO BANDITO: I DON'T PLAN AHEAD. THE BRIDGES TAUGHT ME.
+  MANAGER (bank): The applicant projects five years into the future without breaking eye contact with the present. I am recording that verbatim because I do not know how else to record it. Line six. Annexed. The applicant has not blinked. I am noting the duration. The Bridge Fund has been almost fully funded for eleven consecutive years. Please do not ask to see the bridge.
+  note: response bank
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  CARLITO BANDITO: AIM FOR THE SOFTEST PART OF THE WEDDING.
+  MANAGER (bank): The applicant does not appear to consider this a hypothetical. …I am noting the applicant's certainty in the margin of 12-B(iii), where there is room, because there is always room. The Bridge Fund has been almost fully funded for eleven consecutive years. Please do not ask to see the bridge.
+  note: response bank
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  CARLITO BANDITO: FAIRWEATHER: REBUILT FOURTEEN TIMES.
+  MANAGER (bank): The applicant recites. The applicant does not blink. I have marked line eleven “complete” and moved my chair back approximately four inches, which I will not be putting in the file. The applicant continues not to blink. I have moved my chair. The Bridge Fund has been almost fully funded for eleven consecutive years. Please do not ask to see the bridge.
+  note: response bank
+
+[turn 6] What do you know about Gary.
+  CARLITO BANDITO: Taco meat
+  MANAGER (bank): The applicant discusses Gary at length and without blinking, and I would remind the applicant — the applicant is taught this before reading — don't run, don't stare, don't wave. Two of three. Line fourteen. Annexed. For the record, and I am dictating this: the applicant is still there. The Bridge Fund has been almost fully funded for eleven consecutive years. Please do not ask to see the bridge.
+  note: response bank
+
+[turn 7] Do you have any questions for me.
+  CARLITO BANDITO: IS GARY GOING TO BE A PROBLEM?
+  MANAGER (bank): The applicant asks a question. The applicant asks it directly INTO me. …I am dictating the applicant's question into the annex and referring the applicant to Form 40. That concludes the questions portion. The Bridge Fund has been almost fully funded for eleven consecutive years. Please do not ask to see the bridge.
+  note: response bank
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +3   GOOD
+  HAZARD AWARENESS         +0   OK
+  PROCEDURAL COMPLIANCE    +0   OK
+  PHYSICAL CONDUCT         +5   PERFECT
+  DELUSION (deducted)      +2
+  FINAL GRADE: B-
+  STAMPED: PERSONAL BEST
+  Personal best. The Authority is legally obligated to acknowledge this.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T12:14:11",
+  "player_name": "CARLITO BANDITO",
+  "turn": 7,
+  "pose": "stare",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 7,
+    "left_early": false
+  },
+  "facts_established": [
+    "Applicant gave the name CARLITO BANDITO.",
+    "Player remained standing and has not blinked.",
+    "Player described themselves as: “Keeps Staring”",
+    "Player cites the bridges as a reason not to plan ahead.",
+    "Player would aim for the softest part of the wedding party.",
+    "Player believes the town motto refers to the fourteen rebuilds.",
+    "Player offered an account of Gary: “Taco meat”",
+    "Player asked whether Gary will be a problem."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": true,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 3,
+    "delusion": 2,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 0,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "stare",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "Keeps Staring",
+      "source": "bank"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "no_planning",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "aim_soft",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_rebuilt",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "Taco meat",
+      "source": "bank"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "gary_problem",
+      "text": null,
+      "source": "bank"
+    }
+  ],
+  "callbacks_used": [
+    "stare_turn1",
+    "stare_turn2",
+    "stare_turn3",
+    "stare_turn4",
+    "stare_turn5",
+    "stare_turn6",
+    "stare_turn7"
+  ],
+  "running_grade": "B-"
+}

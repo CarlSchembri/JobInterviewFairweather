@@ -1,0 +1,9 @@
+==================================================================
+  TRANSIT AUTHORITY NETWORK: ONLINE
+  interviewer source: cli
+==================================================================
+Warming up the interviewer in the background…
+Fairweather Transit Authority, applicant entrance: http://127.0.0.1:8137/
+Ctrl+C to close the office.
+
+[backend:cli] interviewer warmed up — turns should land in a few seconds

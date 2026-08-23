@@ -1,0 +1,68 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T12:26:07   applicant: SANTA MCNASTY   backend: none
+==========================================================================
+
+[name] SANTA MCNASTY
+  MANAGER (bank): Mr. Santa Mcnast, then. I'll write it here, and then I'll write it differently further down, and the Authority will decide between them in its own time.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  SANTA MCNASTY: SHAKE HAND
+  MANAGER (bank): A firm grip. Genuinely — a FINE grip. …You may release it whenever you like, Santa Mcnastye. Line one of Form 12-B: first impression. I'll come back to that one.
+  note: response bank
+
+[EXIT] player left after turn 1
+  MANAGER (bank): You lasted less than one full question. …That is not a record, Santa Mcnastye, but it is close enough that I will have to look it up. You never let go of my hand. I want to be clear that I am not objecting. I am asking whether you intend to take it with you. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T12:26:07",
+  "player_name": "SANTA MCNASTY",
+  "turn": 1,
+  "pose": "handshake",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": true,
+    "handshake_duration_turns": 1,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name SANTA MCNASTY.",
+    "Player took the manager's hand and has not let go.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 0,
+    "delusion": 0,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 1,
+    "physical_comedy": 2
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "shake_hand",
+      "text": null,
+      "source": "bank"
+    }
+  ],
+  "callbacks_used": [
+    "handshake_turn1"
+  ],
+  "running_grade": "C+"
+}

@@ -1,0 +1,165 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T12:49:34   applicant: CARL   backend: cli
+==========================================================================
+
+[name] CARL
+  MANAGER (bank): Carle, then. I'll write it here, and then I'll write it differently further down, and the Authority will decide between them in its own time.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  CARL: SHAKE HAND
+  MANAGER (cli): Ah. CARO, is it. Or Carlton — the coffee ring on this sheet obscures the final letter and Form 12-B does not permit conjecture. The handshake continues, which the Authority notes with neither alarm nor enthusiasm, merely... duration.
+  note: compliant but unresolved physical contact, mildly amusing to the process
+
+[turn 2] Tell me about yourself.
+  CARL: I have 11 years experience driving buses
+  MANAGER (cli): Eleven years, CARO. Noted, though the pen wobbles somewhat, my writing hand being the one currently engaged in yours. Eleven years is a fine round number — Form 12-B has a box for it, box fourteen, and I am filling it in one-handed while the other remains, as previously logged, occupied. We shall verify the eleven years against Form 40 at our leisure, or possibly never.
+  note: confident claim noted but unverified, handshake now affecting paperwork
+
+[turn 3] Where do you see yourself in five years.
+  CARL: ALIVE.
+  MANAGER (cli): ALIVE. Just... alive. No branch office, no seniority, no gold watch — merely continued existence, stated as a five-year objective. The Authority finds this refreshingly modest, and also mildly diagnostic.
+  note: blunt honesty about survival reads as candor, faint hazard awareness
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  CARL: DOWNSHIFT, CURB THE BUS, TAKE THE WALL.
+  MANAGER (cli): The wall. CARO chooses the wall over the wedding party — correctly, per Form 12-B(iii), subsection Load Distribution, which ranks brick above bride in every printed scenario. Noted, and noted with something almost like relief, though I write it one-handed, my other hand having entered its fourth uninterrupted turn of employment gripping yours. We do not, as a rule, staff for foresight. You may be the exception, or a fluke Form 40 will later explain.
+  note: correct hazard tradeoff, prioritizing pedestrians over property
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  CARL: YOU'LL GET THERE EVENTUALLY.
+  MANAGER (cli): Correct, verbatim, word for word — 'You'll Get There Eventually,' adopted by a vote whose ballots never arrived, which is either irony or just how Fairweather does elections. Full marks, CARO, entered in the civic knowledge box with a flourish my one free hand can barely manage. Five turns now on this handshake, and I have begun, privately, to wonder whether I will be driving myself home tonight or simply be driven, still attached to you, like cargo. Form 12-B does not have a box for that. I may need to invent one.
+  note: correct civic knowledge answer, straightforward credit
+
+[turn 6] What do you know about Gary.
+  CARL: Nothing. Never heard of him.
+  MANAGER (cli): Never heard of him. Noted — and, I will say, refreshingly clean, a blank page where most applicants arrive already smudged. We do not explain Gary. We do not need to; the town does it for us, badly, over time. The handshake, CARO, has now completed its sixth turn, which by Authority precedent qualifies it less as a greeting than as a cohabitation, and I have begun mentally rehearsing which of us drives.
+  note: ignorance of Gary is neutral-to-concerning, not a plus, not a minus
+
+[turn 7] Do you have any questions for me.
+  CARL: WHAT HAPPENED TO THE BUS IN THE WALL?
+  MANAGER (cli): The bus. Yes. That is a bus, in that wall, and has been for some time — the Authority classifies it under 'ambient,' Form 40, section unspecified. As to what happened, the file is thick, the driver's name has since been retired from casual conversation, and I am not at liberty, or frankly at willingness, to elaborate further. The handshake enters its seventh turn, CARO, and I have stopped rehearsing how I get home tonight and started rehearsing how you do.
+  note: asking a real question at last shows initiative, though answer withheld
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         +5   PERFECT
+  PROCEDURAL COMPLIANCE    +4   PERFECT
+  PHYSICAL CONDUCT         +5   PERFECT
+  DELUSION (deducted)      +0
+  FINAL GRADE: A-
+  STAMPED: COMMENDATION
+  Exemplary service. The Authority has no notes.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T12:49:34",
+  "player_name": "CARL",
+  "turn": 7,
+  "pose": "handshake",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": true,
+    "handshake_duration_turns": 7,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Applicant gave the name CARL.",
+    "Player took the manager's hand and has not let go.",
+    "Manager misread the applicant's name as CARO or possibly Carlton.",
+    "The handshake is ongoing into a second turn.",
+    "Player claims 11 years of experience.",
+    "Applicant restated the claim of 11 years driving experience.",
+    "Player's five-year plan is to be alive.",
+    "Applicant's stated five-year goal is survival, not advancement.",
+    "Player would put the bus into a wall rather than the crosswalk.",
+    "Applicant chose to sacrifice the bus into a wall to spare pedestrians.",
+    "Player correctly recited the town motto.",
+    "Applicant correctly recited the town motto.",
+    "Player has never heard of Gary.",
+    "Applicant claims no prior knowledge of Gary.",
+    "Player acknowledged the bus in the wall.",
+    "Applicant asked what happened to the bus in the wall."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": true
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 0,
+    "hazard_awareness": 5,
+    "bureaucratic_compliance": 4,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "shake_hand",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I have 11 years experience driving buses",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "alive",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "take_the_wall",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_correct",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "Nothing. Never heard of him.",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "the_bus",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "handshake_ongoing",
+    "five_year_plan_alive",
+    "wall_over_crosswalk",
+    "town_motto_correct",
+    "bus_in_wall"
+  ],
+  "running_grade": "A-"
+}

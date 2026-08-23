@@ -1,0 +1,68 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T15:11:14   applicant: BAILER   backend: none
+==========================================================================
+
+[name] BAILER
+  MANAGER (bank): …B. Ailer. Good. Strong name. …The previous driver had a name like that. Form 12-B, line one.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  BAILER: STARE
+  MANAGER (bank): …Yes. Hello. The applicant is standing at a distance I will have to estimate later for the record. Line one of Form 12-B asks for a first impression and I find I am reaching for a ruler instead. We'll proceed.
+  note: response bank
+
+[EXIT] player left after turn 1
+  MANAGER (bank): You lasted less than one full question. …That is not a record, Baileo, but it is close enough that I will have to look it up. The applicant is leaving. The applicant is leaving while still facing me. I am dictating this into the annex as it happens. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T15:11:14",
+  "player_name": "BAILER",
+  "turn": 1,
+  "pose": "stare",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 1,
+    "left_early": true
+  },
+  "facts_established": [
+    "Applicant gave the name BAILER.",
+    "Player remained standing and has not blinked.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": -1,
+    "delusion": 1,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": 0,
+    "physical_comedy": 3
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "stare",
+      "text": null,
+      "source": "bank"
+    }
+  ],
+  "callbacks_used": [
+    "stare_turn1"
+  ],
+  "running_grade": "C-"
+}

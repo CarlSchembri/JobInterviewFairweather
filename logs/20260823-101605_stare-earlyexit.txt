@@ -1,0 +1,99 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T10:14:15   applicant: DEV   backend: cli
+==========================================================================
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  DEV: STARE
+  MANAGER (cli): The hand remains extended. Untouched. He notes, for the file, that the applicant — Devra? D. Ev.
+  note: unresponsive to a basic social prompt, logged rather than scored
+
+[turn 2] Tell me about yourself.
+  DEV: I watch. I have always watched.
+  MANAGER (cli): The manager notes, for the file, that eye contact has now persisted two full turns without a blink, which Form 12-B lists under 'concerning' rather than 'disqualifying. ' The applicant — Deva? Debra, the coffee stain is unclear — states that she watches, and has always watched, and he transcribes this verbatim, because paraphrasing a threat feels presumptuous. He considers a follow-up question. He decides against it.
+  note: unsettling non-answer nudges delusion up, manager declines to probe
+
+[turn 3] Where do you see yourself in five years.
+  DEV: RUNNING THE TRANSIT AUTHORITY.
+  MANAGER (cli): The manager records that the applicant — Diane, or possibly Diane-with-an-E, the coffee stain forecloses further inquiry — intends, within five years, to run the Transit Authority itself, and he writes this down without inflection, because Form 12-B has a box marked 'ambition' and it has never once been checked before today. He notes, for the file, that eye contact has now reached three full turns, which technically qualifies for a Form 40 referral, though he elects not to elect that. Something about the phrase 'running the Transit Authority' sits strangely coming from someone still standing, 
+  note: delusion spikes on the ambition claim while compliance slips as he skips his own referral protocol
+
+[EXIT] player left after turn 3
+  MANAGER (bank): Nine minutes. …Or 3 questions, which is how Form 12-B measures it, and Form 12-B is what I have. The applicant is leaving. The applicant is leaving while still facing me. I am dictating this into the annex as it happens. You never asked about Gary. Everyone asks about Gary. …I'll note the omission on line fourteen and leave it there. You're hired. The drivers keep dying. When can you start. …Please don't go.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T10:14:15",
+  "player_name": "DEV",
+  "turn": 3,
+  "pose": "stare",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 3,
+    "left_early": true
+  },
+  "facts_established": [
+    "Player remained standing and has not blinked.",
+    "Applicant declined the extended hand.",
+    "Manager began narrating in third person, as if dictating a report.",
+    "Player described themselves as: “I watch. I have always watched.”",
+    "Manager is now dictating the interview aloud in third person.",
+    "Applicant's stated self-description was transcribed verbatim without follow-up.",
+    "Player intends to run the Transit Authority within five years.",
+    "Manager noted eye contact has persisted three full turns, technically qualifying for Form 40 referral.",
+    "Manager filed the applicant's five-year ambition under an 'ambition' box on Form 12-B never previously checked.",
+    "Player left through the EXIT before the interview concluded."
+  ],
+  "flags": {
+    "asked_about_gary": false,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": true,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": -1,
+    "delusion": 5,
+    "hazard_awareness": 0,
+    "bureaucratic_compliance": -2,
+    "physical_comedy": 4
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "stare",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I watch. I have always watched.",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "running_authority",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "stare_pose",
+    "third_person_narration",
+    "eye_contact_escalation",
+    "declined_handshake"
+  ],
+  "running_grade": "C-"
+}

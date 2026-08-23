@@ -1,0 +1,164 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T10:26:51   applicant: PATIENCE   backend: cli
+==========================================================================
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  PATIENCE: SHAKE HAND
+  MANAGER (cli): Ah. PATRICIA. Or PRUDENCE — Form 12-B smudges at the T, and the Authority does not adjudicate handwriting disputes. He notes, for the record, that the applicant has now taken the hand rather than shaken it, a distinction Form 12-B(iii) will want clarified... eventually.
+  note: complied with the gesture but escalated it past a normal handshake, small comedy bump
+
+[turn 2] Tell me about yourself.
+  PATIENCE: I have 22 years experience on city routes
+  MANAGER (cli): Twenty-two years. Noted, in the margin, in a hand that is not entirely my own on account of PATIENCE — or PATRICK, the T on this sheet insists on both — still declining to release turn two of what Form 12-B(iii) will eventually classify as a grip. The Authority does not verify prior experience so much as file it, and filed it is. Continue. I have a free elbow and considerable time.
+  note: compliant answer given, but unverifiable claim and unresolved handshake nudge delusion/comedy up slightly
+
+[turn 3] Where do you see yourself in five years.
+  PATIENCE: DRIVING THIS EXACT ROUTE.
+  MANAGER (bank): Five years is a long horizon for a man who cannot presently reach his own stapler. …I ask because line six requires me to assess FEASIBILITY, Patienco, and I am assessing it one-handed. We are, I observe, still shaking hands.
+  note: response bank
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  PATIENCE: DOWNSHIFT, CURB THE BUS, TAKE THE WALL.
+  MANAGER (cli): Downshift, curb, wall — in that order, which is more procedure than most drivers manage while conscious, PATRICE. The Authority notes a wedding party preserved and a bus... redistributed, a trade Form 12-B(iii) refers to as 'acceptable attrition,' filed two drawers down from the one that's just paper. I am recording this one-handed, as you may have noticed, on account of turn five of a handshake neither of us appears prepared to end. Switchback Ridge thanks you.
+  note: correct hazard sequencing under the hypothetical, consistent with prior wall-over-crosswalk stance
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  PATIENCE: YOU'LL GET THERE EVENTUALLY.
+  MANAGER (cli): Correct, verbatim, Form 12-B Section 3 duly satisfied — PATIENZA, or the sheet may say PATIENCE, the coffee ring sits directly atop the ε. 'You'll get there eventually' is, in point of fact, the only guarantee this office is legally permitted to make, and you have now made it for me while still gripping this hand at turn six of what I am no longer filing as temporary. I have begun composing, mentally, the memo explaining to my own household how I intend to steer a vehicle home tonight with one working arm. Noted. Filed.
+
+[turn 6] What do you know about Gary.
+  PATIENCE: Nothing. Also I have no license, never did.
+  MANAGER (cli): Nothing on Gary, and nothing on a license — PATRIENCE, the sheet is now certain it's you, since the two blank spaces have finally agreed with each other. The Authority does not require prior knowledge of Gary; the Authority requires only that you not require it, which you have now demonstrated twice. I will note the licensing matter under Form 40, the other thing, and continue writing left-handed, as turn six shows no sign of concluding.
+  note: consistent candor but second admission of no license against claimed 22 years' experience deepens the contradiction
+
+[turn 7] Do you have any questions for me.
+  PATIENCE: WHAT HAPPENED TO THE BUS IN THE WALL?
+  MANAGER (cli): A fair question, PATIENTE, and one Form 12-B(iii) files under 'need to know,' a category the Authority has determined does not presently include you. The bus is, as of this morning, load-bearing; the wall has accepted it the way this hand has accepted yours, which is to say permanently and without further comment from either party. GARY. That is the whole of my answer, and I did not say it about the bus. I am noting your question under Form 40, the other thing, and continuing to write with the one arm not currently on loan.
+  note: asked a direct, sensible question and got a non-answer, which is itself informative
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         +5   PERFECT
+  PROCEDURAL COMPLIANCE    +5   PERFECT
+  PHYSICAL CONDUCT         +5   PERFECT
+  DELUSION (deducted)      +2
+  FINAL GRADE: A-
+  STAMPED: COMMENDATION
+  Passengers delivered on schedule. Property values adjusted accordingly.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T10:26:51",
+  "player_name": "PATIENCE",
+  "turn": 7,
+  "pose": "handshake",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": true,
+    "handshake_duration_turns": 7,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Player took the manager's hand and has not let go.",
+    "Manager has begun completing Form 12-B one-handed.",
+    "Player claims 22 years of experience.",
+    "Player restated 22 years of experience as her self-introduction.",
+    "Player intends to drive the same route for five years.",
+    "Player would put the bus into a wall rather than the crosswalk.",
+    "Player specified a failure sequence: downshift, curb the bus, take the wall.",
+    "Manager classifies wall-over-crosswalk as acceptable attrition per Form 12-B(iii).",
+    "Player correctly recited the town motto.",
+    "Player admitted to having no valid license.",
+    "Player has never heard of Gary.",
+    "Player claims no knowledge of Gary.",
+    "Player restated having no valid license.",
+    "Player acknowledged the bus in the wall.",
+    "Player directly asked what happened to the bus in the wall.",
+    "Manager deflected the bus question with an unexplained reference to Gary."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": true,
+    "lied_about_something": true,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": true
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 2,
+    "hazard_awareness": 5,
+    "bureaucratic_compliance": 5,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "shake_hand",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I have 22 years experience on city routes",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "same_route",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "take_the_wall",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_correct",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "Nothing. Also I have no license, never did.",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "the_bus",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "handshake_ongoing",
+    "handshake_turn3",
+    "handshake_turn5",
+    "wall_over_crosswalk",
+    "handshake_turn6",
+    "no_license_contradiction",
+    "handshake_turn7",
+    "bus_wall_query_deflected_to_gary"
+  ],
+  "running_grade": "A-"
+}

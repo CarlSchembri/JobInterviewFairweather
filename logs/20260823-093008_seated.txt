@@ -1,0 +1,146 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T09:27:58   applicant: LORD TOOTS   backend: none
+==========================================================================
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  LORD TOOTS: SIT DOWN
+  MANAGER (bank): You sat. Without being asked, without incident, and in the correct chair. …That is the third time that has happened this year. Form 12-B, line one: compliant. Noted.
+  note: response bank
+
+[turn 2] Tell me about yourself.
+  LORD TOOTS: I like hotdogs
+  MANAGER (bank): Comfortable. Articulate. Seated. …Frankly, Lord Tootse, the last applicant who managed all three at once turned out to be here about the water heater. Line four. Noted.
+  note: response bank
+
+[turn 3] Where do you see yourself in five years.
+  LORD TOOTS: ALIVE.
+  MANAGER (bank): Ambition, from a chair, at nine-forty in the morning. …The Authority logs that under line six and, historically, does nothing further with it. Noted.
+  note: response bank
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  LORD TOOTS: AIM FOR THE SOFTEST PART OF THE WEDDING.
+  MANAGER (bank): Delivered calmly, from a seated position, regarding a wedding. …The Authority's position is that anything on Switchback Ridge is covered under the “it happens” guarantee, which covers nothing. Annexed.
+  note: response bank
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  LORD TOOTS: DON'T RUN, DON'T STARE, DON'T WAVE.
+  MANAGER (bank): Line eleven, civic knowledge, satisfied — and I'll note that you did it without standing up, which the Department of Public Safety would consider best practice if there were three of them today. There are three of them. Noted.
+  note: response bank
+
+[turn 6] What do you know about Gary.
+  LORD TOOTS: I am Gary
+  MANAGER (bank): Line fourteen. …The Gary Sighting Log is the only civic record in Fairweather that has never once had an entry removed. I am not adding to it today. Noted.
+  note: response bank
+
+[turn 7] Do you have any questions for me.
+  LORD TOOTS: WHAT HAPPENED TO THE BUS IN THE WALL?
+  MANAGER (bank): Good question. Genuinely. …The answer lives in Form 40, which nobody in this building has seen since the shredder was installed, and the shredder was installed by the Mayor's Office, and we share it. Noted. You mentioned the bus. …I have not.
+  note: response bank
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         +5   PERFECT
+  PROCEDURAL COMPLIANCE    +0   OK
+  PHYSICAL CONDUCT         +3   GOOD
+  DELUSION (deducted)      -1
+  FINAL GRADE: B+
+  Exemplary service. The Authority has no notes.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T09:27:58",
+  "player_name": "LORD TOOTS",
+  "turn": 7,
+  "pose": "seated",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": true,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Player sat down. The chair is wrong somehow.",
+    "Player described themselves as: “I like hotdogs”",
+    "Player's five-year plan is to be alive.",
+    "Player would aim for the softest part of the wedding party.",
+    "Player recited the three rules of Fairweather instead of the motto.",
+    "Player offered an account of Gary: “I am Gary”",
+    "Player acknowledged the bus in the wall."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": true
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": -1,
+    "hazard_awareness": 5,
+    "bureaucratic_compliance": 0,
+    "physical_comedy": 3
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "sit_down",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I like hotdogs",
+      "source": "bank"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "alive",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "aim_soft",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_gary",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "I am Gary",
+      "source": "bank"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "the_bus",
+      "text": null,
+      "source": "bank"
+    }
+  ],
+  "callbacks_used": [],
+  "running_grade": "B+"
+}

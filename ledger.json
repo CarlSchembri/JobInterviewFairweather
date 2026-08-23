@@ -1,0 +1,113 @@
+{
+  "session_id": "2026-08-23T15:14:32",
+  "player_name": "SKELETOR",
+  "turn": 8,
+  "pose": "seated",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": true,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Applicant gave the name SKELETOR.",
+    "Player sat down. The chair is wrong somehow.",
+    "Applicant told the manager to sit down instead of shaking his extended hand.",
+    "Player described themselves as: “I once at an entire bag of string cheese”",
+    "Applicant claimed to have eaten an entire bag of string cheese in one sitting.",
+    "Player's five-year plan, in their own words: “Chowing down on more cheese”",
+    "Player asked to see the map dispatch was reading.",
+    "Applicant asked to see dispatch's map rather than answering whether he'd drive the route.",
+    "Player would wait, on the grounds that the cow is not theirs.",
+    "Player gave the town motto as: “Our country strings of cheese of cheese I see”",
+    "Player offered an account of Gary: “All I can think of is cheese”",
+    "Player asked: “What is your favorite cheese?”"
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": true,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 5,
+    "hazard_awareness": 4,
+    "bureaucratic_compliance": 3,
+    "physical_comedy": 2
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "sit_down",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I once at an entire bag of string cheese",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": null,
+      "text": "Chowing down on more cheese",
+      "source": "cli"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypo_bridge",
+      "choice": "see_the_map",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 5,
+      "question_id": "hypo_cow",
+      "choice": "not_my_cow",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 6,
+      "question_id": "town_motto",
+      "choice": null,
+      "text": "Our country strings of cheese of cheese I see",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "gary",
+      "choice": null,
+      "text": "All I can think of is cheese",
+      "source": "cli"
+    },
+    {
+      "turn": 8,
+      "question_id": "any_questions",
+      "choice": null,
+      "text": "What is your favorite cheese?",
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "extended_hand_rejected",
+    "string_cheese_confession",
+    "string_cheese_trend",
+    "cartographic_verification",
+    "cheese_five_year_plan"
+  ],
+  "running_grade": "B-"
+}

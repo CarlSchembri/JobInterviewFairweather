@@ -1,0 +1,188 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T14:20:16   applicant: CARL   backend: cli
+==========================================================================
+
+[name] CARL
+  MANAGER (bank): Carle, then. I'll write it here, and then I'll write it differently further down, and the Authority will decide between them in its own time.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  CARL: SHAKE HAND
+  MANAGER (cli): Ah. Firm grip. The Authority notes firm grips favorably, right up until the point where they become a liability issue. He does not let go, and neither, it seems, do you, Carl — or is it Carl. The sheet is coffee-stained at the crucial letter.
+  note: compliant opening, no red flags yet, handshake still unresolved
+
+[turn 2] Tell me about yourself.
+  CARL: I have 11 years experience driving buses
+  MANAGER (cli): Eleven years. Noted. Filed, alongside a hand that has now been shaking mine for two consecutive turns, which I mention only because Form 12-B has a box for 'grip duration' and I have never once had cause to fill it in before today. Eleven years is a fine number, Carl — it is the kind of number a man says with his whole chest. We will see how it survives contact with Form 12-B(iii).
+  note: confident claim noted, unverified, handshake still unresolved
+
+[turn 3] Where do you see yourself in five years.
+  CARL: Alive. Behind this exact wheel.
+  MANAGER (cli): "Alive. Behind this exact wheel. " Noted, in full, verbatim, underlined once. The wheel endures. You, I am told by the more recent driver files, are a variable.
+  note: grim but specific answer, on-brand for the role, handshake unresolved
+
+[turn 4] Hypothetical. Dispatch routes you over the Overpass Court bridge. There is no Overpass Court bridge. Dispatch is quite certain there is.
+  CARL: I FOLLOW DISPATCH.
+  MANAGER (cli): "I follow dispatch." Noted — one-handed, as this hand is otherwise engaged, four turns running now. Dispatch, for the record, is also quite certain about several other things, including a bridge at Overpass Court that the Bridge Fund has been almost fully funding for eleven years without ever producing. So: dispatch says drive, the bridge says nothing, because it isn't there, and you, Carl, apparently intend to split the difference at highway speed.
+  note: unquestioning obedience over a nonexistent bridge, compliant but reckless
+
+[turn 5] Hypothetical. A passenger boards, pays, sits, and will not state a destination. It has been two hours. They are still there.
+  CARL: KEEP DRIVING. THEY'LL SAY EVENTUALLY.
+  MANAGER (cli): "They'll say eventually. " Noted. That is, incidentally, close kin to the town motto, which is 'You'll Get There Eventually,' adopted after a ballot initiative nobody delivered — so at least you're civically consistent, Carl. A silent passenger of two hours' standing is not, strictly, against policy; Form 12-B(iii) merely asks that you not make eye contact with them, a rule I recommend you internalize deeply. Five turns, this hand.
+  note: eerily on-policy compliance with an unnamed hazard, handshake escalating
+
+[turn 6] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  CARL: HORN. CONTINUOUSLY. IT'S THEIR MOVE.
+  MANAGER (cli): "Horn. Continuously. It's their move. " Noted, and consistent with your prior filing on the silent passenger — you have now formally established a policy of yielding nothing to anyone, brakes or no brakes, silence or noise. Six turns, Carl.
+  note: aggressive non-yielding policy, consistent but alarming, handshake now permanent fixture
+
+[turn 7] Civic knowledge. One question, and there are no wrong answers, though all answers are graded. …Recite the town motto.
+  CARL: You'll get there eventually
+  MANAGER (cli): "You'll get there eventually." Correct, verbatim, and — I note for the file — the same phrase you offered two questions ago regarding the silent passenger, which means you either study civics or simply repeat yourself under pressure. Form 12-B(iii) does not distinguish between the two and awards full marks either way. Seven turns on this handshake now, Carl; the motto, I'll observe, was written for exactly this situation.
+  note: correct civic recitation, echoes an earlier answer, credited in full
+
+[turn 8] What do you know about Gary.
+  CARL: Nothing. Never heard of him.
+  MANAGER (cli): Never heard of him. Good. Keep it that way, if you can manage it, which statistically you cannot. I'll mark this as the correct answer regardless — Form 12-B(iii) has a box for 'Gary: unaware' and it is, historically, the safest box on the form. Eight turns, Carl, and I find I no longer resent it so much as file it, the way the Bridge Fund files eleven years of a bridge it has never produced.
+  note: professed ignorance of Gary graded as the safe answer, no elaboration offered
+
+[turn 9] Do you have any questions for me.
+  CARL: I don't know
+  MANAGER (cli): "I don't know." Noted — filed directly beneath 'Nothing. Never heard of him,' which I am beginning to suspect is your general approach to inquiry, Carl. No questions is itself an answer, and Form 12-B rewards it, since curiosity has historically shortened tenure at this Authority. Nine turns on this hand now, since the moment you walked in and shook it and never once let go, which I note is the single most sustained commitment you have shown all interview.
+  note: incuriosity logged as compliant rather than concerning, handshake called back to its origin
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         -4   AWFUL
+  PROCEDURAL COMPLIANCE    +5   PERFECT
+  ASSESSED TOTAL           +1    (of -20..+20)
+  DELUSION                 +5   AWFUL    [DEDUCTED]
+  PHYSICAL CONDUCT         +5   PERFECT  [NO BOX FOR THIS]
+  FINAL GRADE: C
+  ON THE RECORD: “I don't know.” This was not asked for and has been kept anyway.
+  Adequate. Adequate is the median, and the median is what keeps the route running.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T14:20:16",
+  "player_name": "CARL",
+  "turn": 9,
+  "pose": "handshake",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": true,
+    "handshake_duration_turns": 9,
+    "seated": false,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Applicant gave the name CARL.",
+    "Player took the manager's hand and has not let go.",
+    "Manager addressed the applicant as Carl, hedged by a coffee stain on the sheet.",
+    "Player claims 11 years of experience.",
+    "Player claims 11 years of experience driving buses.",
+    "Player's five-year plan, in their own words: “Alive. Behind this exact wheel.”",
+    "Player would drive toward a bridge that does not exist because dispatch said so.",
+    "Player would keep driving a silent passenger indefinitely.",
+    "In a no-brakes scenario the player would sound the horn and yield nothing.",
+    "Player gave the town motto as: “You'll get there eventually”",
+    "Player correctly recited the town motto.",
+    "Player has never heard of Gary.",
+    "Player asked: “I don't know”"
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": true,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 5,
+    "hazard_awareness": -4,
+    "bureaucratic_compliance": 5,
+    "physical_comedy": 5
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "shake_hand",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I have 11 years experience driving buses",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": null,
+      "text": "Alive. Behind this exact wheel.",
+      "source": "cli"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypo_bridge",
+      "choice": "follow_dispatch",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 5,
+      "question_id": "hypo_silent_passenger",
+      "choice": "keep_driving",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 6,
+      "question_id": "hypo_switchback",
+      "choice": "horn",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "town_motto",
+      "choice": null,
+      "text": "You'll get there eventually",
+      "source": "cli"
+    },
+    {
+      "turn": 8,
+      "question_id": "gary",
+      "choice": null,
+      "text": "Nothing. Never heard of him.",
+      "source": "cli"
+    },
+    {
+      "turn": 9,
+      "question_id": "any_questions",
+      "choice": null,
+      "text": "I don't know",
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "handshake_pose",
+    "five_year_plan_quote",
+    "bridge_hypothetical_quote",
+    "silent_passenger_quote",
+    "no_brakes_horn_quote",
+    "gary_unaware_quote"
+  ],
+  "running_grade": "C"
+}

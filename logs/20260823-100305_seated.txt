@@ -1,0 +1,159 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T09:58:38   applicant: MARGUERITE   backend: cli
+==========================================================================
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  MARGUERITE: SIT DOWN
+  MANAGER (cli): Noted, though redundant — you are already seated, Marguerite, or Margarethe, the sheet blurs past the coffee ring. Form 12-B requests a handshake, not a command performed at the furniture. His hand remains out there, unclaimed, hovering over some quantity of paperwork it has technically outlived. He withdraws it a half-inch, reconsiders, and picks up a pen instead. Noted.
+  note: complied with a formality that was already satisfied, and left the handshake hanging
+
+[turn 2] Tell me about yourself.
+  MARGUERITE: I am punctual and I do not ask questions
+  MANAGER (cli): Punctual, and incurious — Form 12-B has a box for both, conveniently adjacent, though 12-B(iii) exists specifically for the incurious ones. Noted, Mar-guh-reet, or however the coffee ring renders it this morning. The Authority finds a candidate who does not ask questions... marketable, for this particular route, for reasons the Authority is not obligated to disclose on this form. He writes something down, underlines it twice, and does not elaborate.
+  note: compliant self-image, but volunteering not to ask questions reads as either discipline or a warning sign
+
+[turn 3] Where do you see yourself in five years.
+  MARGUERITE: DRIVING THIS EXACT ROUTE.
+  MANAGER (bank): Ambition, from a chair, at nine-forty in the morning. …The Authority logs that under line six and, historically, does nothing further with it. Noted.
+  note: response bank
+
+[turn 4] Hypothetical. You are descending Switchback Ridge. The brakes are gone. There is a wedding party in the crosswalk. Form 12-B(iii) requires an answer.
+  MARGUERITE: LAUNCH THE PASSENGERS FIRST. LIGHTER BUS, SHORTER STOP.
+  MANAGER (cli): Consistent. Line six, launch the passengers, now cross-referenced against a wedding party specifically — the Authority notes the policy scales. Form 12-B(iii) asks for a braking strategy and receives, instead, a physics argument, which the annex technically permits under subsection nine. He writes WEDDING in the margin, then LIGHTER BUS beneath it, and underlines LIGHTER BUS. Noted, Mar-gue-reet, and forwarded to Rice Insurance, unread.
+  note: consistent but escalating disregard for passenger safety under a named hypothetical
+
+[turn 5] Civic knowledge. One question. There are no wrong answers. All answers are graded. …Recite the town motto.
+  MARGUERITE: EXACT CHANGE IS APPRECIATED.
+  MANAGER (bank): Line eleven, civic knowledge, satisfied — and I'll note that you did it without standing up, which the Department of Public Safety would consider best practice if there were three of them today. There are three of them. Noted.
+  note: response bank
+
+[turn 6] What do you know about Gary.
+  MARGUERITE: Gary is on a very long lunch.
+  MANAGER (cli): Gary, on lunch. Extended lunch. The Authority has that exact phrase on file eleven times this fiscal year, verbatim, from eleven applicants who have never met one another. Noted, Margarine, and cross-filed under Form 12-B(iii), Gary section, which is now the thickest page in the annex. He does not ask which lunch.
+  note: gives the town's stock non-answer about Gary as if it were personal knowledge
+
+[turn 7] Do you have any questions for me.
+  MARGUERITE: NO. I'D LIKE TO START IMMEDIATELY.
+  MANAGER (cli): None. No questions. The Authority notes that Marjorie asked nothing, wants nothing explained, and would like to begin immediately, which Form 12-B lists under 'red flag, minor' and also, separately, under 'exemplary attitude' — the form was designed by two committees that never met. He stamps something. Start date: immediately, pending Form 40, which is for the other thing and takes six to eight weeks.
+  note: no curiosity about the role, consistent with prior candor score, offset slightly by compliant eagerness
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +3   GOOD
+  HAZARD AWARENESS         -1   OK
+  PROCEDURAL COMPLIANCE    +5   PERFECT
+  PHYSICAL CONDUCT         +4   PERFECT
+  DELUSION (deducted)      +5
+  FINAL GRADE: B-
+  STAMPED: PERSONAL BEST
+  Personal best. The Authority is legally obligated to acknowledge this.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T09:58:38",
+  "player_name": "MARGUERITE",
+  "turn": 7,
+  "pose": "seated",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": true,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Player sat down. The chair is wrong somehow.",
+    "Player barked a command to sit despite already being seated, and did not take the offered hand.",
+    "Player described themselves as: “I am punctual and I do not ask questions”",
+    "Player described themselves as punctual and as someone who does not ask questions.",
+    "Player intends to drive the same route for five years.",
+    "Player would launch the passengers to reduce stopping distance.",
+    "Player would launch a wedding party specifically to shorten stopping distance.",
+    "Player's brake-failure answer is consistent with her earlier stated intent to launch passengers.",
+    "Player recited a fare notice and believes it is the town motto.",
+    "Player claims to know what became of Gary.",
+    "Player believes Gary is on an extended lunch break — an answer already on file from eleven prior applicants.",
+    "Player asked to start immediately.",
+    "Player declined the opportunity to ask questions and reiterated wanting to start immediately."
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": true,
+    "mentioned_bridge": false,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": true,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 3,
+    "delusion": 5,
+    "hazard_awareness": -1,
+    "bureaucratic_compliance": 5,
+    "physical_comedy": 4
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "sit_down",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I am punctual and I do not ask questions",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": "same_route",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypothetical",
+      "choice": "lighten_load",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 5,
+      "question_id": "town_quiz",
+      "choice": "motto_fare",
+      "text": null,
+      "source": "bank"
+    },
+    {
+      "turn": 6,
+      "question_id": "gary",
+      "choice": null,
+      "text": "Gary is on a very long lunch.",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "any_questions",
+      "choice": "start_now",
+      "text": null,
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "extended_hand",
+    "name_confusion",
+    "launch_passengers_consistency",
+    "gary_lunch_line",
+    "form_12b_dual_listing"
+  ],
+  "running_grade": "B-"
+}

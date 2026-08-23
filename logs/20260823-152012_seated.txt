@@ -1,0 +1,174 @@
+==========================================================================
+JOB INTERVIEW AT FAIRWEATHER TRANSIT
+session 2026-08-23T15:14:32   applicant: SKELETOR   backend: cli
+==========================================================================
+
+[name] SKELETOR
+  MANAGER (bank): …Shkeletor. Good. Strong name. …The previous driver had a name like that. Form 12-B, line one.
+
+[turn 1] …Ah. You're the nine-forty. Or the ten-fifteen. Form 12-B does not distinguish. He extends a hand across the desk. It has, by the look of it, been extended for some time.
+  SKELETOR: SIT DOWN
+  MANAGER (cli): …Noted. The hand withdraws, unshaken, and files itself back into a coffee cup. Mister — Skeletron, is it, per the sheet — the applicant is seated, yes, this office is aware, this office has been aware since turn one. He remains standing himself, out of some professional courtesy nobody has ever thanked him for, and reaches instead for Form 12-B.
+  note: declined the handshake in favor of issuing an order, mild insubordination noted
+
+[turn 2] Tell me about yourself.
+  SKELETOR: I once at an entire bag of string cheese
+  MANAGER (cli): "I once ate an entire bag of string cheese. " Noted, verbatim, for Form 12-B, under Relevant Qualifications, where it will sit uneasily beside the part where he told a superior officer to sit down before shaking his hand. An entire bag. Not portioned, not shared, not — the form specifies — refrigerated afterward. Mister Skeletor, this office admires stamina.
+  note: answered with an unrelated feat of endurance rather than qualifications
+
+[turn 3] Where do you see yourself in five years.
+  SKELETOR: Chowing down on more cheese
+  MANAGER (cli): "Chowing down on more cheese." A five-year plan, filed directly beneath the one-bag precedent, which this office notes is now a trend rather than an incident. Ambition, longevity, dairy — Form 12-B has a box for none of these, so it goes in the margin, where the good material always ends up. Mister Skeletor, the Authority does not employ five-year plans. It employs shifts.
+  note: restated the cheese answer as a career trajectory rather than an incident
+
+[turn 4] Hypothetical. Dispatch routes you over the Overpass Court bridge. There is no Overpass Court bridge. Dispatch is quite certain there is.
+  SKELETOR: I'D LIKE TO SEE DISPATCH'S MAP.
+  MANAGER (cli): The map is dispatch's, and dispatch's map is Fairweather's map, and Fairweather's map has said, since before this desk had a scratch in it, that there is a bridge at Overpass Court. Please donate to the Bridge Fund. Do not ask to see the bridge, and do not, Mister Skeletor, ask to see the map — the map is not the problem, the map is very confident. This office notes the same man who plans to spend the next five years chowing down on more cheese is now requesting cartographic verification before driving forty children into a gap in the road.
+  note: sought verification before proceeding, a rare flash of competence undercut by the cheese plan
+
+[turn 5] Hypothetical. There is a cow on Fairweather Ave. It is standing in the lane. It has the bearing of something that has done this before.
+  SKELETOR: WAIT. IT IS NOT MY COW.
+  MANAGER (cli): "It is not my cow. " Correct, per Form 12-B, ownership of livestock is not a prerequisite for waiting behind it, though this office notes the applicant demanded to see dispatch's map before he'd cross a bridge that may not exist, and now proposes idling indefinitely for a cow that isn't his either. A consistency emerges: Mister Skeletor will not move for anything he cannot personally litigate. Noted. Filed.
+  note: cautious to a fault, consistent with the earlier map request
+
+[turn 6] Civic knowledge. One question, and there are no wrong answers, though all answers are graded. …Recite the town motto.
+  SKELETOR: Our country strings of cheese of cheese I see
+  MANAGER (cli): "Our country strings of cheese of cheese I see. " The actual motto, for the file, is You'll Get There Eventually, adopted after a vote nobody delivered — this office notes the applicant has arrived at a full civic anthem of cheese instead, which tracks, given the bag, given the five-year plan of chowing down on more, given that dairy now appears to be Mister Skeletor's load-bearing worldview. There are no wrong answers. There is, however, a grade. Noted.
+  note: civic knowledge answer replaced entirely by the ongoing cheese theme, factually void but thematically consistent
+
+[turn 7] What do you know about Gary.
+  SKELETOR: All I can think of is cheese
+  MANAGER (cli): "All I can think of is cheese. " This office will note that this is, historically, the correct amount to think about Gary — less is better, none is best, and Mister Skeletor has managed to think about him via string cheese, which the file already has on record from turn two, the five-year plan, and the motto. The three rules of Fairweather do not mention dairy. They do not need to. Noted.
+  note: deflected the one topic that actually matters, which is itself the correct instinct
+
+[turn 8] Do you have any questions for me.
+  SKELETOR: What is your favorite cheese?
+  MANAGER (cli): String, evidently, given the applicant ate an entire bag of it before this office ever asked him to. Mister Skeletor arrived by telling a man not to shake his hand but to sit down, has since built a five-year plan, a motto, and an account of Gary entirely out of dairy, and now closes by asking this office's preference rather than his own qualifications for driving forty children over a bridge that may not exist. Noted. Filed. Gone.
+  note: closed the interview asking the interviewer a question instead of asking about the job
+
+--- END OF INTERVIEW REPORT ---
+  CANDOUR                  +5   PERFECT
+  HAZARD AWARENESS         +4   PERFECT
+  PROCEDURAL COMPLIANCE    +3   GOOD
+  ASSESSED TOTAL           +7    (of -20..+20)
+  DELUSION                 +5   TOTAL    [DEDUCTED]
+  PHYSICAL CONDUCT         +2   MINOR    [NO BOX FOR THIS]
+  FINAL GRADE: B-
+  NOTED FOR THE FILE: the applicant said, “What is your favorite cheese?” It stays on line four.
+  Satisfactory. You will be issued a bus. The bus will be issued conditions.
+  You are hired. The drivers keep dying.
+
+--- FINAL LEDGER ---
+{
+  "session_id": "2026-08-23T15:14:32",
+  "player_name": "SKELETOR",
+  "turn": 8,
+  "pose": "seated",
+  "pose_locked_at_turn": 1,
+  "physical_state": {
+    "hand_still_gripped": false,
+    "handshake_duration_turns": 0,
+    "seated": true,
+    "farted": false,
+    "fart_count": 0,
+    "eye_contact_unbroken_turns": 0,
+    "left_early": false
+  },
+  "facts_established": [
+    "Applicant gave the name SKELETOR.",
+    "Player sat down. The chair is wrong somehow.",
+    "Applicant told the manager to sit down instead of shaking his extended hand.",
+    "Player described themselves as: “I once at an entire bag of string cheese”",
+    "Applicant claimed to have eaten an entire bag of string cheese in one sitting.",
+    "Player's five-year plan, in their own words: “Chowing down on more cheese”",
+    "Player asked to see the map dispatch was reading.",
+    "Applicant asked to see dispatch's map rather than answering whether he'd drive the route.",
+    "Player would wait, on the grounds that the cow is not theirs.",
+    "Player gave the town motto as: “Our country strings of cheese of cheese I see”",
+    "Player offered an account of Gary: “All I can think of is cheese”",
+    "Player asked: “What is your favorite cheese?”"
+  ],
+  "flags": {
+    "asked_about_gary": true,
+    "knows_gary_fate": false,
+    "mentioned_bridge": true,
+    "admitted_no_license": false,
+    "lied_about_something": false,
+    "insulted_the_town": false,
+    "showed_genuine_enthusiasm": false,
+    "acknowledged_the_bus_in_the_wall": false
+  },
+  "meters": {
+    "candor": 5,
+    "delusion": 5,
+    "hazard_awareness": 4,
+    "bureaucratic_compliance": 3,
+    "physical_comedy": 2
+  },
+  "answers": [
+    {
+      "turn": 1,
+      "question_id": "greeting",
+      "choice": "sit_down",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 2,
+      "question_id": "about_yourself",
+      "choice": null,
+      "text": "I once at an entire bag of string cheese",
+      "source": "cli"
+    },
+    {
+      "turn": 3,
+      "question_id": "five_years",
+      "choice": null,
+      "text": "Chowing down on more cheese",
+      "source": "cli"
+    },
+    {
+      "turn": 4,
+      "question_id": "hypo_bridge",
+      "choice": "see_the_map",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 5,
+      "question_id": "hypo_cow",
+      "choice": "not_my_cow",
+      "text": null,
+      "source": "cli"
+    },
+    {
+      "turn": 6,
+      "question_id": "town_motto",
+      "choice": null,
+      "text": "Our country strings of cheese of cheese I see",
+      "source": "cli"
+    },
+    {
+      "turn": 7,
+      "question_id": "gary",
+      "choice": null,
+      "text": "All I can think of is cheese",
+      "source": "cli"
+    },
+    {
+      "turn": 8,
+      "question_id": "any_questions",
+      "choice": null,
+      "text": "What is your favorite cheese?",
+      "source": "cli"
+    }
+  ],
+  "callbacks_used": [
+    "extended_hand_rejected",
+    "string_cheese_confession",
+    "string_cheese_trend",
+    "cartographic_verification",
+    "cheese_five_year_plan"
+  ],
+  "running_grade": "B-"
+}
