@@ -2,4 +2,6 @@ __pycache__/
 *.pyc
 build/
 dist/
-FairweatherTransit.exe
+
+# The built executable IS committed: it is the whole point of the submission,
+# so a grader can run the game without installing Python.
